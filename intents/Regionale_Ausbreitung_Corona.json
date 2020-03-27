@@ -1,0 +1,71 @@
+{
+  "id": "9ac7e4b7-d92b-4a40-a574-c065dbffd0a4",
+  "name": "Regionale_Ausbreitung_Corona",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "455dbd99-6ea2-11ea-a1b9-c3fbaf202271",
+          "required": false,
+          "dataType": "@sys.geo-country",
+          "name": "geo-country",
+          "value": "$geo-country",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "455dbd9a-6ea2-11ea-a1b9-c3fbaf202271",
+          "required": false,
+          "dataType": "@sys.geo-state",
+          "name": "geo-state",
+          "value": "$geo-state",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Die Zahlen auf der ganzen Welt verändern sich ständig. Auf der unten verlinkten Karte können Sie Stadt Würzburg und die Landkreise anklicken und erhalten aktuelle Informationen\n"
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Aktuelle Zahlen im Überblick",
+          "imageUrl": "https://storage.googleapis.com/media-intent-management-system/1584640165619cfallzahlen.jpg",
+          "buttons": [
+            {
+              "text": "Fallzahlen Bayern",
+              "postback": "https://www.lgl.bayern.de/gesundheit/infektionsschutz/infektionskrankheiten_a_z/coronavirus/karte_coronavirus/index.htm#karte"
+            }
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,70 @@
+{
+  "id": "944aaa01-042f-4f2b-bc0a-3100fd1d41ab",
+  "name": "Finanzielle_Foerderung_Banken",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Betroffenen Unternehmen stehen für die Bewältigung der wirtschaftlichen Folgen des Coronavirus die Darlehensprodukte der LfA Förderbank Bayern, die Darlehensprodukte der KfW sowie verschiedene Bürgschaftsprogramme zur Verfügung. Der Freistaat Bayern stellt sicher, dass die LfA Förderbank Bayern zusätzliche Risiken übernehmen kann.\n\nPrimäres Ziel ist die Bereitstellung zusätzlicher Liquidität für Unternehmen.\nFinanzierungsvoraussetzung: Ein grundsätzlich tragfähiges Geschäftsmodell und die Bereitschaft der Hausbanken, die nachfolgenden Angebote in die Gesamtfinanzierung einzubinden.\nIhr Weg zu den Finanzierungshilfen: Erster Ansprechpartner ist grundsätzlich Ihre Hausbank – sie berät und beantragt die finanziellen Hilfen bei LfA und BBB.  "
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Informationen vom Wirtschaftsministeriums",
+          "imageUrl": "https://storage.googleapis.com/media-intent-management-system/1584643793157Sofortma%C3%9Fnahmen.jpg",
+          "buttons": [
+            {
+              "text": "Zu den Informationen",
+              "postback": "https://www.stmwi.bayern.de/coronavirus/"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "LfA Förderbank Bayern",
+          "imageUrl": "https://storage.googleapis.com/media-intent-management-system/1584643834916Sofortma%C3%9Fnahmen.jpg",
+          "buttons": [
+            {
+              "text": "Zur Webseite",
+              "postback": "https://lfa.de/website/de/aktuelles/_informationen/Coronavirus/index.php"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Ähnliche Themen:",
+          "replies": [
+            "Soforthilfe"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

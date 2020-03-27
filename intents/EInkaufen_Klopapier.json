@@ -1,0 +1,32 @@
+{
+  "id": "ec54d215-af82-4687-9dea-2362d9c1aa03",
+  "name": "EInkaufen_Klopapier",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Lebensmittelgeschäfte und Drogerien haben zur Deckung des täglichen Bedarfs geöffnet. Es besteht hier die Möglichkeit der Ausweitung der Ladenöffnungszeiten bis 22 Uhr sowie die Möglichkeit der Sonntagsöffnung. Bitte informiere Dich darüber vor Ort bei dem Geschäft, das Du nutzen willst.\nKaufe wenn möglich nicht zu Stoßzeiten ein, sondern dann, wenn die Geschäfte weniger voll sind oder nutze einfach einen Abhol- und Lieferservice oder Drive-in, wenn der angeboten wird. "
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

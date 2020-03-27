@@ -1,0 +1,62 @@
+{
+  "id": "aa141fc6-6b06-494c-a921-78b521771a4d",
+  "name": "Veranstaltungsverbot",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "912c0553-6ea2-11ea-a1b9-c3fbaf202271",
+          "required": false,
+          "dataType": "@Freizeiteinrichtungen",
+          "name": "Freizeiteinrichtungen",
+          "value": "$Freizeiteinrichtungen",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Aufschlussreich zu dieser Frage sind die Angaben in der Allgemeinverfügung, die vom bayerischen Gesundheitsministerium zu Betriebsuntersagungen und Veranstaltungsverboten anlässlich der Corona-Pandemie am 21.03.2020 herausgegeben wurde."
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Offizielle Dokumente",
+          "imageUrl": "https://storage.googleapis.com/media-intent-management-system/1584719548239bayern.png",
+          "buttons": [
+            {
+              "text": "Zum Dokument",
+              "postback": "https://www.stmgp.bayern.de/wp-content/uploads/2020/03/20200320_av_stmgp_ausgangsbeschraenkung.pdf"
+            },
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

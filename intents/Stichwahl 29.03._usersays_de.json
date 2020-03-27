@@ -1,0 +1,230 @@
+[
+  {
+    "id": "87a0a810-6e0b-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Wo findet die Stichwahl jetzt in meinem Ort statt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "87a0a811-6e0b-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Können die Abstimmungsräume in der Gemeinde genutzt werden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "87a0a812-6e0b-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Aus welchem Grund wird jetzt nur noch per Brief gewählt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "87a0a813-6e0b-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Warum gibt es jetzt nur noch Briefwahl?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "87a0a814-6e0b-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Darf ausschließlich mit den Briefwahlunterlagen abgestimmt werden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "87a0a815-6e0b-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Muss ich die Wahlunterlagen von zuhause ausfüllen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "87a0a816-6e0b-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Muss ich zwingend die Briefwahlpapiere nutzen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "87a0a817-6e0b-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Stichwahl am 29. März 2020",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "87a0a818-6e0b-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Wie wird die Stichwahl für meine Kommune organisiert?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "87a0a819-6e0b-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Wie läuft die Stichwahl für den Landkreis ab?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "87a0a81a-6e0b-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Wo kann ich am Sonntag mein Kreuzchen setzen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "87a0a81b-6e0b-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Darf ich in meiner Gemeinde meine Stimme abgeben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "87a0a81c-6e0b-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Kann ich vor Ort wählen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "87a0a81d-6e0b-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Kann ich auch anders wählen gehen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "87a0a81e-6e0b-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Gelten für die Stichwahl nur die Briefunterlagen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "87a0a81f-6e0b-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Wird der neue Oberbürgermeister nur per Brief gewählt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "87a0a820-6e0b-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Wo kann ich über den neuen Landrat abstimmen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "87a0a821-6e0b-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Kann ich am Sonntag zur Landkreiswahl gehen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "87a0a822-6e0b-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Muss die Stichwahl per Brief erfolgen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

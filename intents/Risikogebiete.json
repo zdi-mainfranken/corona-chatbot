@@ -1,0 +1,70 @@
+{
+  "id": "40d7e5f6-8b69-4bda-923e-c86cd18666d4",
+  "name": "Risikogebiete",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "125a1a28-6d1f-11ea-9dd8-09af29682fe5",
+          "required": false,
+          "dataType": "@sys.geo-state",
+          "name": "geo-state",
+          "value": "$geo-state",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "In Deutschland gibt es nur ein besonders betroffenes Gebiet, nämlich den Landkreis Heinsberg (NRW).\n\nMit Stand vom 21.03.2020 gibt es folgende internationale Risikogebiete: Ägypten; In China: Provinz Hubei (inkl. der Stadt Wuhan); Iran; Italien; In Frankreich: Region Grand Est (diese Region enthält Elsass, Lothringen und Champagne-Ardenne) ; In Österreich: Bundesland Tirol; In Spanien: Madrid; In Südkorea: Provinz Gyeongsangbuk-d (Nord-Gyeongsang); In den Vereinigten Staaten: Bundesstaaten Kalifornien, Washington und New York\n\nInternationale Risikogebiete und besonders betroffene Gebiete in Deutschland sind Gebiete, in denen eine fortgesetzte Übertragung von Mensch zu Mensch vermutet werden kann. Um dies festzulegen, verwendet das Robert Koch-Institut verschiedene Kriterien. Die Situation wird jeden Tag neu bewertet und die Liste angepasst."
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Risikogebiete im Überblick",
+          "imageUrl": "https://storage.googleapis.com/media-intent-management-system/1584639884350Risikogebiete.jpg",
+          "buttons": [
+            {
+              "text": "Zum Überblick",
+              "postback": "www.rki.de/covid-19-risikogebiete"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Ähnliche Themen:",
+          "replies": [
+            "Reiseverkehr",
+            "Pendler"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

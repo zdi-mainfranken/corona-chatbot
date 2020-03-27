@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1ff8b8e0-6ea3-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wie lange dauert die Bearbeitung des Zuschuss-Antrags?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1ff8b8e1-6ea3-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wie schnell bekomme ich mein Geld?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1ff8b8e2-6ea3-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wie hoch ist der Zuschuss?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1ff8b8e3-6ea3-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wann wird der Zuschuss ausbezahlt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1ff8b8e4-6ea3-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Erhalte ich einen Zuschuss oder muss ich das Geld zurückzahlen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

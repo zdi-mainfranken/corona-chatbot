@@ -1,0 +1,46 @@
+{
+  "id": "88436829-593b-4bf9-8903-bed8c8bbe2b0",
+  "name": "IHK Podcast",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Im Podcast der IHK Würzburg Schweinfurt werden jetzt auch interessante Fragen zu Arbeitnehmerrechten und wirtschaftlichen Auswirkungen der Corona-Krise professionell beantwortet. Hör doch mal rein!"
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "IHK Würzburg Schweinfurt",
+          "imageUrl": "https://gruenden.wuerzburg.de/wp-content/uploads/2018/02/ihk.jpg",
+          "buttons": [
+            {
+              "text": "Zum Podcast:",
+              "postback": "https://www.wuerzburg.ihk.de/ihk-tv.html"
+            }
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

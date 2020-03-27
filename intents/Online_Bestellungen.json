@@ -1,0 +1,42 @@
+{
+  "id": "8df07554-0b2e-4114-b93d-b1b5e4a3b20d",
+  "name": "Online_Bestellungen",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Ja, über den Online Handel kann noch bestellt werden. Einige Einzelhändler und Gastronomien in Würzburg haben diesbezüglich coole neue Angebote. Überdenke aber bitte, ob Dein Einkauf von Konsumwaren über große Onlineportale aktuell unbedingt notwendig ist, oder ob Du das auf einen späteren Zeitpunkt verschieben kannst. Auch Pakete müssen durch Menschen ausgeliefert werden. Die Empfehlung ist, die sozialen Kontakte so weit wie möglich zu minimieren."
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Siehe auch:",
+          "replies": [
+            "Lieferservices_WUE"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

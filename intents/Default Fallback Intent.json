@@ -1,0 +1,37 @@
+{
+  "id": "2096cdd5-d3fe-4abb-b284-4f13724a65f9",
+  "name": "Default Fallback Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": [
+            "Leider kann ich deine Frage nicht beantworten. Versuche Deine Frage anders zu formulieren. Wenn ich Dir jetzt nicht weiterhelfen kann und Du hast einen Notfall, Ruf bitte das Bürgertelefon unter der 0931/ 8003-5100 an. Für Fragen in Sachen Ausbildung/Prüfungen hilft die IHK: 0931/4194-800. Wirtschaftliche Fragen werden unter der Email-Adresse soforthilfecorona@reg-ufr.bayern.de beantwortet.\n",
+            "Tut mir leid, aber ich verstehe deine Anfrage nicht. Kurze und knappe Formulierungen verstehe ich am besten. Wenn ich Dir jetzt nicht weiterhelfen kann und Du hast einen Notfall, Ruf bitte das Bürgertelefon unter der 0931/ 8003-5100 an. Für Fragen in Sachen Ausbildung/Prüfungen hilft die IHK: 0931/4194-800. Wirtschaftliche Fragen werden unter der Email-Adresse soforthilfecorona@reg-ufr.bayern.de beantwortet.",
+            "Wenn ich Dir jetzt nicht weiterhelfen kann und Du hast einen Notfall, Ruf bitte das Bürgertelefon unter der 0931/ 8003-5100 an. Für Fragen in Sachen Ausbildung/Prüfungen hilft die IHK: 0931/4194-800. Wirtschaftliche Fragen werden unter der Email-Adresse soforthilfecorona@reg-ufr.bayern.de beantwortet."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

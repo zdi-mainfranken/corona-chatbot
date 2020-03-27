@@ -1,0 +1,64 @@
+{
+  "id": "64200f01-7425-4fb6-9181-f5be4678f527",
+  "name": "Exportgeschäfte_Unterstützung",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Der Bund stellt der Wirtschaft mit Exportkreditgarantien (sog. Hermesdeckungen) eine flexible, effektive und umfassende Unterstützung bereit. Die wird flankiert durch ein gut ausgestattetes KfW-Programm zur Refinanzierung von Exportgeschäften. Bei etwaigem zusätzlichem Bedarf für Exportdeckung und Refinanzierung lässt sich der Ermächtigungsrahmen sehr schnell erhöhen.\nInformationen zu den Instrumentarien findest Du unter nachfolgendem Link."
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Informationen Exportkreditgarantien",
+          "imageUrl": "https://storage.googleapis.com/media-intent-management-system/1584719325082agaPortal.jpg",
+          "buttons": [
+            {
+              "text": "Zur Webseite",
+              "postback": "https://www.agaportal.de/news/beitraege/corona"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "\nBei näheren Fragen zu Ihren Exportkreditgarantie und zu Deckungsmöglichkeiten wenden Sie sich an folgende Kontakte:\nHermesdeckungen Corona-Taskforce: +49 (0) 40 / 88 34 - 95 09\nService: +49 (0) 40 / 88 34 - 90 00\nE-Mail: info@exportkreditgarantien.de\nBMWi-Hotline für Unternehmen: +49 (0)30 / 186 15 15 15"
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Ähnliche Themen:",
+          "replies": [
+            "Pendler",
+            "Bundeshilfen"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

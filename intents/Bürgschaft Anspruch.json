@@ -1,0 +1,71 @@
+{
+  "id": "ec6268c3-24f9-4bb8-a990-253e0a77ee8d",
+  "name": "Bürgschaft Anspruch",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Die Hausbanken können bei Bedarf  auf das Bürgschaftsinstrumentarium zurückgreifen. Für Unternehmen, die bis zur Krise tragfähige Geschäftsmodelle hatten, können Bürgschaften für Betriebsmittel zur Verfügung gestellt werden.  Es darf sich allerdings nicht um Sanierungsfälle oder Unternehmen in Schwierigkeiten handeln.\n\nWende Dich bezüglich einer Bürgschaftsaufnahme und weiteren Infos bitte zuerst an Deine Hausbank.\n"
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Bürgschaftsbanken Portal",
+          "imageUrl": "https://storage.googleapis.com/media-intent-management-system/1584705152094BBanken.png",
+          "buttons": [
+            {
+              "text": "Zur Webseite",
+              "postback": "https://finanzierungsportal.ermoeglicher.de/"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Bürgschaftsbanken Übersicht",
+          "imageUrl": "https://storage.googleapis.com/media-intent-management-system/1584705261137bwe.png",
+          "buttons": [
+            {
+              "text": "Zur Webseite",
+              "postback": "https://www.bmwi.de/Redaktion/DE/Dossier/coronavirus.html#id1694894"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Ähnliche Themen:",
+          "replies": [
+            "Bürgschaft Summe",
+            "Förderung"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

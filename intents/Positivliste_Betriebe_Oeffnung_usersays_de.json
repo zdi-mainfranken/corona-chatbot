@@ -1,0 +1,910 @@
+[
+  {
+    "id": "3afb7710-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "ist die versorgung gefährdet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3afb7711-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "versorgung",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3afb7712-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "dürfen noch reperaturen durchgeführt werden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3afb7713-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "darf das bauhandwerk noch arbeiten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3afb7714-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "dürfen kosmetiker noch arbeiten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3afb7715-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "dürfen friseure noch arbeiten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3afb7716-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "welche handwerksbetriebe dürfen noch offen haben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3afb7717-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "welche handwerker dürfen noch arbeiten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3afb7718-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Welche Läden haben noch offen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3afb7719-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Was hat noch geöffnet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3afb771a-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wo kann ich einkaufen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3afb771b-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Darf man zum Logopäden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3afb771c-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Darf ich zur Ergo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3afb771d-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Hat der Logopäde offen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3afb771e-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wie ist es mit Ergotherapie?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3afb771f-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "ist Physiotherapie möglich?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3afb7720-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "darf ich zur krankengymnastik?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3afb7721-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wie ist es mit Eisdielen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3afb7722-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Hat der Imbiss geöffnet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3afb7723-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Haben die Dönerläden geöffnet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3afb7724-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Haben die Eisdielen geöffnet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3afb7725-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Kann ich noch Essen gehen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3afb7726-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Ist die Gastronomie geöffnet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3afb7727-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Welche Läden haben jetzt noch offen und welche sind zu?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3afb7728-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Kann ich noch Lebensmittel einkaufen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3afb7729-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Dürfen Läden noch offen haben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3afb772a-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "kann ich noch einkaufen gehen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3afb772b-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "sind denn ",
+        "userDefined": false
+      },
+      {
+        "text": "schwimmbäder",
+        "alias": "Betriebe",
+        "meta": "@Betriebe",
+        "userDefined": false
+      },
+      {
+        "text": " noch offen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3afb772c-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "haben ",
+        "userDefined": false
+      },
+      {
+        "text": "krankenhäuser",
+        "alias": "Betriebe",
+        "meta": "@Betriebe",
+        "userDefined": false
+      },
+      {
+        "text": " noch offen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3afb772d-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "haben ",
+        "userDefined": false
+      },
+      {
+        "text": "drogerien",
+        "alias": "Betriebe",
+        "meta": "@Betriebe",
+        "userDefined": false
+      },
+      {
+        "text": " noch normalen betrieb?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3afb772e-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "welche läden dürfen noch offen sein?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3afb772f-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "dürfen laden wie ",
+        "userDefined": false
+      },
+      {
+        "text": "aldi",
+        "alias": "Betriebe",
+        "meta": "@Betriebe",
+        "userDefined": false
+      },
+      {
+        "text": " und co noch geöffnet sein?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3afb7730-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "hat der ",
+        "userDefined": false
+      },
+      {
+        "text": "DM",
+        "alias": "Betriebe",
+        "meta": "@Betriebe",
+        "userDefined": false
+      },
+      {
+        "text": " noch geöffnet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3afb7731-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "sind ",
+        "userDefined": false
+      },
+      {
+        "text": "apotheken",
+        "alias": "Betriebe",
+        "meta": "@Betriebe",
+        "userDefined": false
+      },
+      {
+        "text": " jetzt eigentlich noch geöffnet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3afb7732-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "hat die ",
+        "userDefined": false
+      },
+      {
+        "text": "bank",
+        "alias": "Betriebe",
+        "meta": "@Betriebe",
+        "userDefined": false
+      },
+      {
+        "text": " noch offen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3afb7733-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Haben ",
+        "userDefined": false
+      },
+      {
+        "text": "banken",
+        "alias": "Betriebe",
+        "meta": "@Betriebe",
+        "userDefined": false
+      },
+      {
+        "text": " noch geöffnet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3afb7734-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wo kann ich mich über die beschränkte Öffnung von Läden und Geschäfte informieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3afb7735-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Haben Bau- und Gartenmärkte noch offen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3afb7736-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Kann ich noch in den Gartencenter gehen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3afb7737-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Welche Einzelhandelsgeschäfte sind nicht von Schließung betroffen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3afb7738-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Welche Betriebe und Geschäfte dürfen weiterarbeiten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3afb7739-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Welche Handwerksbetriebe dürfen offiziell noch arbeiten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3afb773a-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Darf ich als Handwerker weiterhin öffnen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3afb773b-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wo finde ich die Positivliste für Betriebe, deren Öffnung erlaubt ist?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3afb773c-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Gibt es eine Liste mit Betrieben, die offen haben dürfen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3afb773d-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Welche Läden dürfen öffnen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3afb773e-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Welche Geschäfte und Läden haben noch offen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3afb773f-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Welche Geschäfte kann ich noch besuchen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3afb7740-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Welche Betriebe dürfen offiziell noch geöffnet haben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3afb7741-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Darf ich noch in den Supermarkt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3afb7742-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Haben Lebensmittelgeschäfte noch offen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3afb7743-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "friseur",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3afb7744-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "haben drogerien offen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3afb7745-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wird noch Post ausgeliefert?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3afb7746-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Pflanzen kaufen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3afb7747-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wo kann ich Pflanzen für den Garten kaufen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3afb7748-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Darf tabakladen öffnen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3afb7749-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wie lange haben die Geschäfte offen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3afb774a-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wann darf ich wieder zu Friseur gehen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3afb774b-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "welche Geschäfte haben geöffnet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3afb774c-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Haben Tankstellen geöffnet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3afb774d-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Dürfen Handwerker noch arbeiten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3afb774e-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wie ist das mit Fitness-Studios?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3afb774f-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "darf ein kunde ein neues fahrrad bei mir im laden abholen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3afb7750-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Hallo, darf ich als Händler ein neues Fahrrad an einen Kunden ausliefern?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3afb7751-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Bouldern",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3afb7752-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Hallo, kann ich jetzt noch normal zum Orthopäden gehen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3afb7753-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Haben Apotheken geöffnet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3afb7754-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Darf der Großhandel öffnen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

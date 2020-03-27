@@ -1,0 +1,47 @@
+{
+  "id": "438b3b14-f2a0-424b-a4ff-6ece715b9e29",
+  "name": "Handwerkskammer_Erreichbarkeit",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Die Handwerkskammer für Unterfranken geht ab 23. März 2020 in den Notbetrieb. Allerdings wird die Hilfe für Betriebe weiter verstärkt. Für die Mitgliedsbetriebe gibt es eine zusätzliche Hotline. Somit stehen nun zwei Hotlines zur Verfügung zur Beratung in wirtschaftlichen und rechtlichen Fragen.\n\nHotline der Unternehmensberatung: WXXX \nHotline der Rechtsberatung: WXXX\nErreichbarkeit: Montag bis Freitag von 8 bis 17 Uhr. \n\nDie Unternehmensberatung berät vorrangig zur Corona-Soforthilfe, weiteren Finanzierungshilfen bei Liquiditätsengpässen und den Möglichkeiten der Steuerstundung. Die Rechtsberatung kann vorrangig bei Fragen zu Kurzarbeit, arbeits- und vertragsrechtlichen Konsequenzen der Corona-Krise kontaktiert werden."
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Weitere Informationen",
+          "subtitle": "Betriebe finden auf der Webseite zudem Antworten auf häufige Fragen, Anträge und wichtige Links. ",
+          "imageUrl": "https://storage.googleapis.com/media-intent-management-system/1584720013837handwerkskammer.jpg",
+          "buttons": [
+            {
+              "text": "Zur Webseite",
+              "postback": "www.hwk-ufr.de/coronavirus"
+            }
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

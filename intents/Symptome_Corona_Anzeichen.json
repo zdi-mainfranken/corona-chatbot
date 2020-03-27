@@ -1,0 +1,56 @@
+{
+  "id": "e8d21107-822d-4a61-9464-439bec2e452c",
+  "name": "Symptome_Corona_Anzeichen",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Die häufigsten klinischen Symptome einer Infektion mit SARS-CoV-2 umfassen nach derzeitigem Stand schnupfenartige Symptome wie Fieber, Husten, Rachenentzündung, eine laufende Nase, Atembeschwerden und Kurzatmigkeit. In einigen Fällen wurde auch von Durchfall berichtet. Symptomlose Verläufe insbesondere bei jüngeren Infizierten kommen vor. Mindestens 80 % der Erkrankungen verlaufen mit milden bis moderaten Symptomen. Schwerere Erkrankungen kommen bei etwa 14 % der Patienten vor und verlaufen mit Lungenbeteiligung bis hin zur Pneumonie. In Einzelfällen ist ein akutes Lungenversagen möglich. "
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Weitere Informationen",
+          "imageUrl": "https://storage.googleapis.com/media-intent-management-system/1584642311682Symptome.jpeg",
+          "buttons": [
+            {
+              "text": "Zur Webseite",
+              "postback": "https://www.stmgp.bayern.de/vorsorge/infektionsschutz/infektionsmonitor-bayern/"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Wie kann ich sonst behilflich sein?",
+          "replies": [
+            "Testen lassen "
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

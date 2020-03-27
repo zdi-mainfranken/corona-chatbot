@@ -1,0 +1,372 @@
+[
+  {
+    "id": "29e55e60-6d15-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Finden Fortbildungen statt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "29e55e61-6d15-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Können wir ins Vereinsheim um zu tagen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "29e55e62-6d15-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Darf unser Verein eine Gremiensitzung abhalten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "29e55e63-6d15-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Darf ich feiern gehen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "29e55e64-6d15-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "dürfen ",
+        "userDefined": false
+      },
+      {
+        "text": "diskotheken",
+        "alias": "Freizeiteinrichtungen",
+        "meta": "@Freizeiteinrichtungen",
+        "userDefined": false
+      },
+      {
+        "text": " noch geöffnet haben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "29e55e65-6d15-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "haben ",
+        "userDefined": false
+      },
+      {
+        "text": "kinos",
+        "alias": "Freizeiteinrichtungen",
+        "meta": "@Freizeiteinrichtungen",
+        "userDefined": false
+      },
+      {
+        "text": " noch offen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "29e55e66-6d15-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Wo kann ich jetzt nicht mehr hingehen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "29e55e67-6d15-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Welche Geschäfte der Freizeitgestaltung haben nicht mehr offen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "29e55e68-6d15-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Welche Freizeitaktivitäten sind in Würzburg untersagt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "29e55e69-6d15-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Wo darf ich noch Sport treiben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "29e55e6a-6d15-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Welche Freizeitaktivitäten kann ich nicht mehr durchführen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "29e55e6b-6d15-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Welche Einrichtungen gehören nicht zum täglichen Bedarf?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "29e55e6c-6d15-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Kann ich mein ",
+        "userDefined": false
+      },
+      {
+        "text": "Fitnessstudio",
+        "alias": "Freizeiteinrichtungen",
+        "meta": "@Freizeiteinrichtungen",
+        "userDefined": false
+      },
+      {
+        "text": " besuchen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "29e55e6d-6d15-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Gibt es noch eine ",
+        "userDefined": false
+      },
+      {
+        "text": "Kneipe",
+        "alias": "Freizeiteinrichtungen",
+        "meta": "@Freizeiteinrichtungen",
+        "userDefined": false
+      },
+      {
+        "text": ", die offen hat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "29e55e6e-6d15-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Geht noch irgendwas im Würzburger Nachtleben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "29e55e6f-6d15-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Haben noch irgendwelche ",
+        "userDefined": false
+      },
+      {
+        "text": "Clubs",
+        "alias": "Freizeiteinrichtungen",
+        "meta": "@Freizeiteinrichtungen",
+        "userDefined": false
+      },
+      {
+        "text": ", Bars und Discos offen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "29e55e70-6d15-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Hat die ",
+        "userDefined": false
+      },
+      {
+        "text": "Bibliothek",
+        "alias": "Freizeiteinrichtungen",
+        "meta": "@Freizeiteinrichtungen",
+        "userDefined": false
+      },
+      {
+        "text": " geöffnet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "29e55e71-6d15-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Darf ich das ",
+        "userDefined": false
+      },
+      {
+        "text": "Schwimmbad",
+        "alias": "Freizeiteinrichtungen",
+        "meta": "@Freizeiteinrichtungen",
+        "userDefined": false
+      },
+      {
+        "text": " besuchen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "29e55e72-6d15-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Welche Freizeiteinrichtungen haben noch offen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "29e55e73-6d15-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Freizeiteinrichtungen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "29e55e74-6d15-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "sind denn schwimmbäder noch offen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "29e55e75-6d15-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "hat das nautiland offen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "29e55e76-6d15-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Darf ich die Sauna besuchen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "29e55e77-6d15-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Ab wann kann ich wieder ins Schwimmbad?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "29e55e78-6d15-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Freizeit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

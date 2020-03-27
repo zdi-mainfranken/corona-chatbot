@@ -1,0 +1,26 @@
+[
+  {
+    "id": "92a968a0-6e01-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Darf ich öffnen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "92a968a1-6e01-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "wie hoch ist die Gefahr einer globalen Finanzkrise?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

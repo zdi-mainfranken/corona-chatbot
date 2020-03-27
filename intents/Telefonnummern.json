@@ -1,0 +1,39 @@
+{
+  "id": "877bba46-32d9-4fef-98f6-551498eed0e9",
+  "name": "Telefonnummern",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Frag am besten bei diesen Kontakten nach Unterstützung. Dort hilft man Dir sicher weiter:"
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Bürgertelefon Würzburg: AXXX, Agentur für Arbeit: Stadt Würzburg:           WXXX, Main-Spessart: 09353 98410, Kitzingen: 0932192630, (Wirschaftl.) Soforthilfe Corona: WXXX, KVB: MXXX, IHK: WXXX, Regierung v. Unterfranken: soforthilfecorona@reg-ufr.bayern.de"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

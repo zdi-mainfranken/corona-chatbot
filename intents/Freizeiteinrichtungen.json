@@ -1,0 +1,70 @@
+{
+  "id": "707c0478-609f-47db-8f4b-840dfce155a4",
+  "name": "Freizeiteinrichtungen",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "29e55e79-6d15-11ea-9dd8-09af29682fe5",
+          "required": false,
+          "dataType": "@Freizeiteinrichtungen",
+          "name": "Freizeiteinrichtungen",
+          "value": "$Freizeiteinrichtungen",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Alle Freizeiteinrichtungen haben geschlossen. Der Betrieb sämtlicher Einrichtungen, die nicht notwendigen Verrichtungen des täglichen Lebens dienen wird untersagt. Hierzu zählen  Sauna- und Badeanstalten, Kinos, Tagungs- und Veranstaltungsräume, Clubs, Bars und Diskotheken, Spielhallen, Theater, Vereinsräume, Bordellbetriebe, Museen, Stadtführungen, Sporthallen, Sport- und Spielplätze, Fitnessstudios, Bibliotheken, Wellnesszentren, Thermen, Tanzschulen, Tierparks, Vergnügungsstätten, Fort- und Weiterbildungsstätten, Volkshochschulen, Musikschulen und Jugendhäuser.\n\nWeitere Infos findest Du in der Allgemeinverfügung des bayerischen Gesundheitsministeriums anlässlich der Corona-Pandemie vom 16.03.2020: "
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Allgemeinverfügung 16.03.",
+          "imageUrl": "https://storage.googleapis.com/media-intent-management-system/1584719628390bayern.png",
+          "buttons": [
+            {
+              "text": "Zum Dokument",
+              "postback": "https://www.stmgp.bayern.de//wp-content/uploads/2020/03/20200316_allgemeinverfuegung_veranstaltungsverbot_betriebsuntersagungen_stand_1252_uhr.pdf"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Ähnliche Themen:",
+          "replies": [
+            "Veranstaltungsverbot",
+            "Volkshochschule"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

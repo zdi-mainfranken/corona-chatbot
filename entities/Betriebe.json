@@ -1,0 +1,9 @@
+{
+  "id": "6c34f732-403f-494c-8fb0-dc8cd254bb15",
+  "name": "Betriebe",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

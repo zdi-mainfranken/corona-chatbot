@@ -1,0 +1,32 @@
+{
+  "id": "79efc388-35ed-465a-803f-e71a256a8aeb",
+  "name": "Flächen_Material_Corona",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Es gibt derzeit keine Fälle, bei denen nachgewiesen ist, dass sich Menschen auf anderem Weg, etwa über den Verzehr kontaminierter Lebensmittel oder durch Kontakt zu kontaminierten Gegenständen mit dem neuartigen Coronavirus infiziert haben. Auch für andere Coronaviren sind keine Berichte über Infektionen durch Lebensmittel oder den Kontakt mit trockenen Oberflächen bekannt. Übertragungen über Oberflächen, die kurz zuvor mit Viren kontaminiert wurden, sind allerdings durch Schmierinfektionen denkbar. Aufgrund der relativ geringen Stabilität von Coronaviren in der Umwelt ist dies aber nur in einem kurzen Zeitraum nach der Kontamination wahrscheinlich."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

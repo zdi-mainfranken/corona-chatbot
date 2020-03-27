@@ -1,0 +1,72 @@
+{
+  "id": "17c70001-c49a-4f81-aa5f-9ab1834964cb",
+  "name": "Quarantäne_Bedingungen",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Anordnung und Organisation einer Quarantäne erfolgen nach dem Infektionsschutzgesetz durch die örtlich zuständigen Landesgesundheitsbehörden. In Stadt und Landkreis Würzburg ist diese Behörde das Gesundheitsamt. \nQuarantäne kann unter anderem bedeuten, dass Menschen den Ort, an dem sie sich befinden, nicht verlassen oder andere Orte nicht betreten dürfen, bis die notwendigen Schutzmaßnahmen durchgeführt wurden. In Quarantäne muss, wer ein hohes Risiko hat, sich angesteckt zu haben. Dies ist der Fall: "
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Wenn man innerhalb der letzten 14 Tage engen Kontakt zu einem laborbestätigten COVID-19-Patienten hatte (mind. 15 Minuten mit dem Erkrankten gesprochen hat, bzw. angehustet oder angeniest worden ist, während dieser ansteckend gewesen ist).\n\nWenn man sich innerhalb der letzten 14 Tage in einem internationalen Risikogebiet bzw. besonders betroffenen Gebieten in Deutschland aufgehalten hat. \n\nImmer, wenn das Gesundheitsamt dies anordnet"
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Nicht in Quarantäne muss, wer ein geringeres Risiko hat, sich angesteckt zu haben. Dies ist der Fall, wenn man innerhalb der letzten 14 Tage im gleichen Raum mit einer Person mit einer festgestellten COVID-19-Erkrankung war, ohne einen engen Kontakt. Oder in einem Gebiet mit steigenden Fallzahlen von COVID-19 war."
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Weitere Infos ",
+          "subtitle": "Hinweise zu Regeln und Verhalten während der Quarantäne",
+          "imageUrl": "https://storage.googleapis.com/media-intent-management-system/1584722040175Screenshot%20at%20Mar%2020%2017-33-52.png",
+          "buttons": [
+            {
+              "text": "Zur Übersicht",
+              "postback": "https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Quarantaene/Flyer.pdf?__blob\u003dpublicationFile"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Ähnliches Thema:",
+          "replies": [
+            "Risikogebiet",
+            "Test_Ort"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

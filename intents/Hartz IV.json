@@ -1,0 +1,57 @@
+{
+  "id": "dea2c118-f78a-4c80-ad5e-0da32287b8e4",
+  "name": "Hartz IV",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Wichtig zu wissen für Selbstständige und Freiberufler in der Krise: \n\nAnspruch auf die Leistungen der Grundsicherung nach dem Zweiten Buch Sozialgesetzbuch (SGB II) haben nicht nur erwerbsfähige und arbeitssuchende Menschen, sondern auch Selbstständige und Freiberufler. Hartz IV-Empfänger können grundsätzlich jede selbstständige Tätigkeit ausüben. Dies bedeutet auch, dass bei Selbstständigkeit Anspruch auf das Arbeitslosengeld II besteht, wenn das erzielte Einkommen nicht zur Deckung des Lebensunterhalts ausreicht."
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Handwerkskammer f. Ufr.",
+          "subtitle": "Merkblatt Arbeitslosengelt II",
+          "imageUrl": "https://images.pexels.com/photos/128878/the-last-shirt-dollar-bill-20-euro-folded-128878.jpeg?auto\u003dcompress\u0026cs\u003dtinysrgb\u0026dpr\u003d2\u0026h\u003d750\u0026w\u003d1260",
+          "buttons": [
+            {
+              "text": "Zur Webseite",
+              "postback": "https://www.hwk-ufr.de/downloads/merkblatt-hartz-iv-fuer-selbststaendige-78,6607.pdf"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Siehe auch:",
+          "replies": [
+            "Kleinunternehmen"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

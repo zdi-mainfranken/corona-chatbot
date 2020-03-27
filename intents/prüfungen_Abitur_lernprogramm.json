@@ -1,0 +1,54 @@
+{
+  "id": "ce3df5d5-c9f0-4163-bf15-970d16a57827",
+  "name": "prüfungen_Abitur_lernprogramm",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Die Abiturprüfungen sollen vom 30.4. auf den 20.5. verschoben werden. Eine nochmalige Verschiebung kann nicht ausgeschlossen werden. Auch die Abschlussprüfungen an Mittel- Real- und Wirtschaftsschulen werden verschoben. BR und das Bayer. Kultusministerium haben ein Zuhause-Lernprogramm gestartet.\n"
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Abitur \u0026 Co.",
+          "imageUrl": "https://www.km.bayern.de/bilder/km_bilder/foto_gross/2935_1AG_1938.jpg",
+          "buttons": [
+            {
+              "text": "Infos weitere Schulen",
+              "postback": "https://www.km.bayern.de/schueler/meldung/6914/abschlusspruefungen-finden-spaeter-statt.html"
+            },
+            {
+              "text": "Infos Abitur",
+              "postback": "https://www.km.bayern.de/schueler/meldung/6909/abiturpruefungen-werden-verschoben.html"
+            },
+            {
+              "text": "Zuhause Lernen",
+              "postback": "https://www.km.bayern.de/schueler/meldung/6904/kultusministerium-und-br-starten-lernangebot-fuer-zuhause.html"
+            }
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

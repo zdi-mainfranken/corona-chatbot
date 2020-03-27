@@ -1,0 +1,71 @@
+{
+  "id": "43e6f211-df66-48ee-830d-60c79cb27dec",
+  "name": "Bundeshilfen_Wirtschaftsministerium",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Die Bundesregierung hat ein weitreichendes Maßnahmenpaket geschnürt, welches Arbeitsplätze schützen und Firmen unterstützen wird - einen Schutzschild für Beschäftigte und Unternehmen.\n\nDetaillierte Informationen zu Bausteinen des bundesweiten Maßnahmenpakets und Liquiditätshilfen findest Du auf dem extra eingerichteten Portal des BMWI. Hier wird nach Größe von Unternehmen aufgeschlüsselt und entsprechend verfügbare Unterstützungsmaßnahmen dargstellt:"
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Mehr Informationen",
+          "imageUrl": "https://storage.googleapis.com/media-intent-management-system/1584703965728bwe.png",
+          "buttons": [
+            {
+              "text": "Zur Webseite",
+              "postback": "https://www.bmwi.de/Redaktion/DE/Dossier/coronavirus.html#id1694894"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Weitere Handreichung",
+          "imageUrl": "https://storage.googleapis.com/media-intent-management-system/1584704007738bwe.png",
+          "buttons": [
+            {
+              "text": "Zum Dokument",
+              "postback": "https://www.bmwi.de/Redaktion/DE/Downloads/S-T/schutzschild-fuer-beschaeftigte-und-unternehmen.pdf?__blob\u003dpublicationFile\u0026v\u003d14"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Ähnliche Themen:",
+          "replies": [
+            "Soforthilfe",
+            "Förderung"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "f1cbb2ae-f4cb-4dfd-9074-a458af7976f2",
+  "name": "Dauer_Krise",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Deutschland steht derzeit (25.03.2020) immer noch am Anfang der Epidemie, die Infektionszahlen steigen täglich. Darum ist davon auszugehen, dass die Krise noch einige Zeit andauern wird. Die aktuelle Lage wird vom Robert-Koch-Institut täglich neu analysiert und eingeschätzt. Durch Dein eigenes Verhalten hast Du die Möglichkeit, auf die Dauer der Krise Einfluss zu nehmen. Minimiere Deine sozialen Kontakte, um die Ausbreitung des Virus zu verlangsamen und einzudämmen."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

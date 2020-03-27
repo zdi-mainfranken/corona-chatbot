@@ -1,0 +1,458 @@
+[
+  {
+    "id": "86e73c80-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Malteser",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "86e73c81-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Caritas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "86e73c82-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Übernachtungsmöglichkeit für Wohnungslosigkeit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "86e73c83-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Psychotherapeutischer Beratungsdienst",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "86e73c84-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Hilfseinrichtungen für Notleidende",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "86e73c85-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Kostenloses Essen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "86e73c86-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Einkaufsservice",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "86e73c87-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Anlaufstelle für arme Menschen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "86e73c88-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Treffpunkte für Menschen in Not",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "86e73c89-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Sozialeinrichtung",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "86e73c8a-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Soziale und solidarische Unterstützungsleistungen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "86e73c8b-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Hilfsangebote von Privatmenschen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "86e73c8c-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Hilfsangebote von privaten Anbietern",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "86e73c8d-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Familienhilfe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "86e73c8e-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Drogenberatung",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "86e73c8f-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Suchtberatung",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "86e73c90-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wo erhalte ich medizinische Versorgung?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "86e73c91-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wohin gehe ich, wenn ich keine Krankenversicherung habe?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "86e73c92-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "medizinische Versorgung für Menschen ohne Krankenversicherung",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "86e73c93-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Essensausgabe bei der Tafel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "86e73c94-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Bahnhofsmission",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "86e73c95-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Notunterkunft",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "86e73c96-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Welche gemeinnützigen Einrichtungen haben noch geöffnet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "86e73c97-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Kann man nach wie vor soziale Einrichtungen aufsuchen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "86e73c98-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Existiert eine Notversorgung für Menschen in Armut?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "86e73c99-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Welche sozialen Einrichtungen sind noch ansprechbar?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "86e73c9a-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wie können sich Wohnungslose weiterhelfen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "86e73c9b-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Pflegestützpunkt",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "86e73c9c-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Welche Hilfe gibt es für Obdachlose?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "86e73c9d-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Kann jemand für mich Botengänge erledigen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "86e73c9e-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wer hilft mir bei meinen Besorgungen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "86e73c9f-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wo finde ich Unterstützung für das Einkaufen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "86e73ca0-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Welche Unterstützungsleistungen bietet die AWO?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "86e73ca1-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Gibt es eine Liste mit Einkaufshilfen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "86e73ca2-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wer hilft mir beim Einkaufen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "86e73ca3-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wo kann ich Hilfe bekommen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "86e73ca4-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wo finde ich Hilfsangebote für meine Großeltern?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "86e73ca5-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "wer kann mir helfen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

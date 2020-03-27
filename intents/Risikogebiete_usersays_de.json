@@ -1,0 +1,350 @@
+[
+  {
+    "id": "125a1a10-6d1f-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "welche länder sind corona risiko gebiete?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "125a1a11-6d1f-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "ist ",
+        "userDefined": false
+      },
+      {
+        "text": "bayern",
+        "alias": "geo-state",
+        "meta": "@sys.geo-state",
+        "userDefined": false
+      },
+      {
+        "text": " ein risiko gebiet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "125a1a12-6d1f-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Welches sind besonders betroffene Gebiete in ",
+        "userDefined": false
+      },
+      {
+        "text": "Deutschland",
+        "alias": "geo-state",
+        "meta": "@sys.geo-state",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "125a1a13-6d1f-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Wie werden Risikogebiete festgelegt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "125a1a14-6d1f-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Welche Länder werden aktuell als Risikoländer bewertet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "125a1a15-6d1f-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Welche Nation gilt international als Risikogebiet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "125a1a16-6d1f-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Wo finde ich eine Liste von Risikogebieten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "125a1a17-6d1f-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Was sind Risikogebiete?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "125a1a18-6d1f-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Wo kann ich Informationen über Risikogebiete einsehen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "125a1a19-6d1f-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Gibt es auch Risikogebiete in ",
+        "userDefined": false
+      },
+      {
+        "text": "Deutschland",
+        "alias": "geo-state",
+        "meta": "@sys.geo-state",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "125a1a1a-6d1f-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Zählt ",
+        "userDefined": false
+      },
+      {
+        "text": "Italien",
+        "alias": "geo-state",
+        "meta": "@sys.geo-state",
+        "userDefined": false
+      },
+      {
+        "text": " zu den Risikogebieten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "125a1a1b-6d1f-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "War ich in einem Corona Risikogebiet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "125a1a1c-6d1f-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Welchen Land gilt als Risikogebiet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "125a1a1d-6d1f-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Woher weiß ich welche Länder als Risikogebiet gelten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "125a1a1e-6d1f-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Ist ",
+        "userDefined": false
+      },
+      {
+        "text": "Österreich",
+        "alias": "geo-state",
+        "meta": "@sys.geo-state",
+        "userDefined": false
+      },
+      {
+        "text": " ein Risikogebiet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "125a1a1f-6d1f-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Ist ",
+        "userDefined": false
+      },
+      {
+        "text": "Italien",
+        "alias": "geo-state",
+        "meta": "@sys.geo-state",
+        "userDefined": false
+      },
+      {
+        "text": " Risikogebiet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "125a1a20-6d1f-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Informationen zu Risikogebieten",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "125a1a21-6d1f-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Ich möchte wissen was alles Risikogebiet ist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "125a1a22-6d1f-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Welche Länder sind Risikogebiet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "125a1a23-6d1f-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Welche Regionen sind als Risiko eingestuft?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "125a1a24-6d1f-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Risikogebiet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "125a1a25-6d1f-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Welche Länder gelten als Risikogebiet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "125a1a26-6d1f-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Was sind Risikogebiete",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "125a1a27-6d1f-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "www.rki.de/covid-19-risikogebiete",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

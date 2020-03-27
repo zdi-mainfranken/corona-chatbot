@@ -1,0 +1,72 @@
+{
+  "id": "025fb959-d1ad-45ae-a2a1-7c1b05c55cd9",
+  "name": "Allgemeines_COVID-19",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Seit Dezember 2019 sind in der chinesischen Stadt Wuhan mehrere Fälle einer Lungenerkrankung aufgetreten. Im Verlauf wurde eine Infektion mit einem neuartigen Coronavirus (Sars-CoV-2) nachgewiesen. Dieses verbreitet sich nun rasant über alle Kontinente und kann v.a. per Tröpfcheninfektion von Mensch zu Mensch übertragen werden (z.B. jmd. anhusten, anniesen). Schmierinfektionen sind nicht ausgeschlossen."
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Inzwischen sind in allen Bundesländern Infektionsfälle mit dem neuen Coronavirus bestätigt worden. In Bayern gibt es aktuell 5.754 Infektionsfälle und 30 Todesfälle (Stand 24. März, 10 Uhr). Am 5. März hat das Gesundheitsamt  die ersten positiv getesten Fälle in Würzburg bestätigt. In Stadt und Landkreis sind mittlerweile 237 Personen positiv auf Corona getestet  (Stand 23. März, 15 Uhr). Am 16. März hat Bayern den Katastrophenfall ausgerufen. "
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Das Robert Koch-Institut (RKI) erfasst kontinuierlich die aktuelle Lage und schätzt das Risiko für die Bevölkerung in Deutschland ein. Beim RKI erfahren Sie Allgemeines über die Krankheit, deren Verbreitung und Auswirkungen:"
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Bundesweite Infos des RKI",
+          "imageUrl": "https://www.rki.de/SharedDocs/Bilder/InfAZ/neuartiges_Coronavirus/EM_Covid_19_koloriert_Krankheitsseite.jpg?__blob\u003dnormal\u0026v\u003d6",
+          "buttons": [
+            {
+              "text": "Zur Webseite:",
+              "postback": "https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/nCoV.html"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Weitere Themen:",
+          "replies": [
+            "Symptome",
+            "Risikogebiete",
+            "Quarantäne"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

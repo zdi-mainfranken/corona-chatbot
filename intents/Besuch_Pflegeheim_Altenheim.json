@@ -1,0 +1,59 @@
+{
+  "id": "bbbfa4d6-c564-4fe4-b381-65564a9808f7",
+  "name": "Besuch_Pflegeheim_Altenheim",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Besuche in Pflege- und Altenheimen sind untersagt. \n\n(Verschärfungen der Richtlinien in der Allgemeinverfügung vom 21.03.2020.)"
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Quelle",
+          "imageUrl": "https://www.stmgp.bayern.de/wp-content/uploads/2015/08/logokopf_farbig.png",
+          "buttons": [
+            {
+              "text": "Website/PDF",
+              "postback": "https://www.stmgp.bayern.de/wp-content/uploads/2020/03/20200320_av_stmgp_ausgangsbeschraenkung.pdf"
+            },
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Ähnliches Thema:",
+          "replies": [
+            "Besuch Krankenhaus"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

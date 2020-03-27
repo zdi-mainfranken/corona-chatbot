@@ -1,0 +1,314 @@
+[
+  {
+    "id": "c5c1ac80-6e73-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "beschichtete Oberfläche",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c5c1ac81-6e73-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wie lange bleibt das Virus am Material hängen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c5c1ac82-6e73-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wie lange überlebt das Virus auf Oberflächen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c5c1ac83-6e73-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Metall",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c5c1ac84-6e73-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Muss ich jetzt vermehrt Griffe und Henkel reinigen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c5c1ac85-6e73-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Bleibt der Virus am Türgriff hängen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c5c1ac86-6e73-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Bleibt der Virus an Material kleben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c5c1ac87-6e73-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Kann der Virus an der Tischdecke und an Geschirr hängenbleiben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c5c1ac88-6e73-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Findet eine Übertragung durch Gegenstände und Oberflächen statt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c5c1ac89-6e73-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Können Dinge mit dem Virus verpestet sein?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c5c1ac8a-6e73-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Kann man sich anstecken, wenn man Sachen anlangt",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c5c1ac8b-6e73-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Kontamination von Dingen und Gegenständen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c5c1ac8c-6e73-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Können Gegenstände kontaminiert sein?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c5c1ac8d-6e73-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wie ist das Ansteckungsrisiko über Oberflächen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c5c1ac8e-6e73-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Kann ich mich beim Kauf von Lebensmitteln über diese anstecken?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c5c1ac8f-6e73-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Kann ich mich infizieren, wenn ich Essen anfasse?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c5c1ac90-6e73-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Kann ich mich beim Einkaufen infizieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c5c1ac91-6e73-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Kann ich mich infizieren, wenn ich irgendetwas anfasse?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c5c1ac92-6e73-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wird Corona über die Berührung von Oberflächen übertragen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c5c1ac93-6e73-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wird Corona über Materie übertragen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c5c1ac94-6e73-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Gibt es Schmierinfektionen über Oberflächen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c5c1ac95-6e73-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wie lange überleben Viren auf Material?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c5c1ac96-6e73-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wie lange überleben Viren auf Flächen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c5c1ac97-6e73-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wie lange überleben Viren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c5c1ac98-6e73-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wie lange hält sich Corona auf Material?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c5c1ac99-6e73-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wie lange hält sich Corona auf Flächen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

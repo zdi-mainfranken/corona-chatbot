@@ -1,0 +1,53 @@
+{
+  "id": "6c4d4fb2-9e46-4399-8ec2-f91c9757ef7c",
+  "name": "Oeffentliche_Verkehrsmittel",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Nutze wenn möglich keine öffentlichen Verkehrsmittel und keine fremden Mitfahrgelegenheiten mehr, sondern bevorzuge am besten das Fahrrad, geh zu Fuß oder fahre mit dem eigenen Auto. Taxis fahren nach wie vor auch. Da es in den ÖPVNV-Fahrzeugen zu Kontakt mit anderen Menschen und Materialien kommt, wird geraten, die von den Gesundheitsämtern empfohlenen Hygieneregeln zu beachten.\n\nDie öffentlichen Verkehrsmittel in Würzburg fahren noch. Der WVV hat allerdings Hinweise zur Nutzung herausgegeben."
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Mehr Informationen",
+          "imageUrl": "https://storage.googleapis.com/media-intent-management-system/1584722902838wvv.png",
+          "buttons": [
+            {
+              "text": "Zur Webseite",
+              "postback": "https://www.wvv.de/de/privatkunden/presse/pressearchiv/2020/oepnv-und-coronavirus-fragen-und-antworten/"
+            },
+            {
+              "text": "Ausgangssperre?",
+              "postback": "Ausgangssperre?"
+            },
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

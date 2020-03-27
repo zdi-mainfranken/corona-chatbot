@@ -1,0 +1,60 @@
+{
+  "id": "6da52c3d-e064-4e90-b24c-114ec7212f4a",
+  "name": "Ausgangssperre",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "(Info vom 20.3.) Das Verlassen der eigenen Wohnung ist nur bei Vorliegen triftiger Gründe erlaubt. Hierzu gehören der Gang zur Arbeit, Arztbesuche, Versorgungsgänge, Besuch von Lebenspartnern, Alten, Kranken oder Menschen mit Einschränkungen, die Begleitung unterstützungsbedürftiger Personen, die Begleitung Sterbender im engsten Familienkreis, Sport und Bewegung an der frischen Luft sowie die Handlung zur Versorgung von Tieren. Generell sollten Sie auf die Minimierung ihrer sozialen Kontakte achten. Vorerst gilt das bis zum 3. April."
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Verordnung im Wortlaut",
+          "imageUrl": "https://www.stmi.bayern.de/assets/stmi/suv/bayern/grosses_staatswappen_farbig.jpg",
+          "buttons": [
+            {
+              "text": "PDF Download",
+              "postback": "https://www.stmgp.bayern.de/wp-content/uploads/2020/03/20200320_av_stmgp_ausgangsbeschraenkung.pdf"
+            },
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Hast Du weitere Fragen?",
+          "replies": [
+            "Zuwiderhandlung",
+            "Triftiger Grund"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

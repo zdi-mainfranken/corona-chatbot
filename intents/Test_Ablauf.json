@@ -1,0 +1,42 @@
+{
+  "id": "f04223c1-bdc0-43f2-a717-caa31f15a0a9",
+  "name": "Test_Ablauf",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Nur als Risikopatienten Eingestufte werden getestet.\n\nDie neu eingerichtete ambulante Untersuchungsstelle am Universitätsklinikum Würzburg kann ausschließlich Patienten berücksichtigen, die vorher mit dem Gesundheitsamt unter der Bürgertelefonnummer AXXX Kontakt aufgenommen haben und als gefährdet eingestuft worden sind.\n\nDas Gesundheitsamt meldet begründete Verdachtsfälle an die Untersuchungsstelle zur Testung an."
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Weitere Infos dazu:",
+          "replies": [
+            "Test_Ort"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

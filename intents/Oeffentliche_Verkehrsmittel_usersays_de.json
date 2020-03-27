@@ -1,0 +1,458 @@
+[
+  {
+    "id": "9e616f70-6e0c-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Sollte ich derzeit noch den Zug nehmen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9e616f71-6e0c-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Ist es empfehlenswert mit der Bahn zu fahren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9e616f72-6e0c-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Wie sollte ich mich beim Bahnfahren verhalten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9e616f73-6e0c-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Sollte ich aktuell in die Tram steigen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9e616f74-6e0c-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Ist es ratsam Mitfahrgelegenheiten zu benutzen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9e616f75-6e0c-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "öffentlicher Nahverkehr",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9e616f76-6e0c-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Kann ich Uber noch nutzen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9e616f77-6e0c-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Fahren Taxis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9e616f78-6e0c-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Ist Straßenbahn fahren verboten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9e616f79-6e0c-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Ist Bus fahren verboten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9e616f7a-6e0c-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Ist Straßenbahn fahren erlaubt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9e616f7b-6e0c-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Ist Bus fahren erlaubt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9e616f7c-6e0c-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Fährt der Bus noch?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9e616f7d-6e0c-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Bus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9e616f7e-6e0c-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Welche Fortbewegungsmittel sollten aktuell genutzt werden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9e616f7f-6e0c-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Wie darf ich mich jetzt noch fortbewegen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9e616f80-6e0c-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Sollte ich jetzt lieber Rad fahren oder zu Fuß gehen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9e616f81-6e0c-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Sollte ich jetzt lieber zu Fuß gehen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9e616f82-6e0c-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Ist das Fahrrad jetzt zu bevorzugen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9e616f83-6e0c-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Wo kann ich mich über neue Bedingungen im ÖPNV informieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9e616f84-6e0c-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Welche Verhaltensregeln gelten in Bus und Straßenbahn?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9e616f85-6e0c-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Welches Verhalten sollte in Bussen und Straßenbahnen an den Tag gelegt werden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9e616f86-6e0c-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Wie muss ich mich in öffentlichen Verkehrsmitteln verhalten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9e616f87-6e0c-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Kann man die öffentlichen Verkehrsmittel noch benutzen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9e616f88-6e0c-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Ist es ratsam die öffentlichen Verkehrsmittel zu nutzen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9e616f89-6e0c-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Wie soll ich mich im öffentlichen Personalverkehr verhalten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9e616f8a-6e0c-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Darf ich noch Bus fahren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9e616f8b-6e0c-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Welche Empfehlungen gelten in Bezug auf den ÖPNV?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9e616f8c-6e0c-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Wie ist die Situation bei öffentlichen Verkehrsmitteln?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9e616f8d-6e0c-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Sollte ich jetzt lieber mit dem eigenen Auto fahren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9e616f8e-6e0c-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Kann ich noch die Straßenbahn benutzen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9e616f8f-6e0c-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "straßenbahn",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9e616f90-6e0c-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "fahrrad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9e616f91-6e0c-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "zugverkehr",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9e616f92-6e0c-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Darf ich Mitfahrgelegenheiten nutzen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9e616f93-6e0c-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Fährt die Straßenbahn?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9e616f94-6e0c-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Fahren Taxis?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9e616f95-6e0c-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Darf ich noch mit Fahrgemeinschaft auf die Arbeit fahren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "id": "bde89454-0346-44c5-b238-74679c6173e1",
+  "name": "Ausbildung_Handwerk",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Grundsätzlich darf ein Auszubildender die Arbeit nicht verweigern, weil die Ansteckungsgefahr bei der Arbeit oder auf dem Weg dorthin erhöht sein könnte. Im Einzelfall kann der Arbeitgeber bei einer konkreten Gefährdung aufgrund seiner Fürsorgepflicht verpflichtet sein, u.a. den Auszubildenden von der Arbeit freizustellen. Für die Zeit der Freistellung ist die Vergütung gemäß § 19 Abs. 1 Nr. 2 BBiG fortzuzahlen.\n"
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Weitere Infos",
+          "imageUrl": "https://storage.googleapis.com/media-intent-management-system/1585140506141image.png",
+          "buttons": [
+            {
+              "text": "Aktuelles PDF",
+              "postback": "https://www.hwk-ufr.de/downloads/faq-informationen-zum-coronavirus-in-bezug-auf-ausbildung-78,6606.pdf"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Siehe auch:",
+          "replies": [
+            "HWK Ausbildung"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

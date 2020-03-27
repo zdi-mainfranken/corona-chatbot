@@ -1,0 +1,480 @@
+[
+  {
+    "id": "230d33a0-6dd9-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Dürfen noch irgendwelche Reiseziele genutzt werden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "230d33a1-6dd9-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Wer holt mich aus dem Urlaubsgebiet ab?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "230d33a2-6dd9-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Rückholaktion der  Bundesregierung",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "230d33a3-6dd9-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Sind Urlaube innerhalb Europas noch gestattet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "230d33a4-6dd9-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Darf ich durch Europa touren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "230d33a5-6dd9-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Wie sieht es mit Interrail aus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "230d33a6-6dd9-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Kann ich meine Expedition starten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "230d33a7-6dd9-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Sind touristische Ausflüge erlaubt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "230d33a8-6dd9-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Gibt es Reiseanbieter die aktuell noch Touristen annehmen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "230d33a9-6dd9-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Welche Flughäfen bieten noch Urlaubsreisen an?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "230d33aa-6dd9-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Welche Urlaubsziele können noch angeflogen werden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "230d33ab-6dd9-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Tourismusdestination",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "230d33ac-6dd9-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Wann darf ich wieder in den Urlaub fahren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "230d33ad-6dd9-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Kann ich meine Buchung rückgängig machen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "230d33ae-6dd9-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Gibt es das Geld für gebuchte Urlaube zurück?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "230dcfe0-6dd9-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Werden Pauschalreisen zurückgezahlt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "230dcfe1-6dd9-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Darf ich noch in den Urlaub fahren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "230dcfe2-6dd9-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "ich fliege am wochenende nach ",
+        "userDefined": false
+      },
+      {
+        "text": "Polen",
+        "alias": "geo-state",
+        "meta": "@sys.geo-state",
+        "userDefined": false
+      },
+      {
+        "text": ". Ist das noch erlaubt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "230dcfe3-6dd9-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Über ostern haben wir urlaub geplant, soll man den lieber verschieben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "230dcfe4-6dd9-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Mein urlaub steht an, was ist zu tun?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "230dcfe5-6dd9-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "würden sie mir empfehlen noch in den urlaub zu fahren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "230dcfe6-6dd9-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Muss ich meinen urlaub stornieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "230dcfe7-6dd9-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "darf ich in den urlaub fahren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "230dcfe8-6dd9-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Welche Einschränkungen gelten für den Reiseverkehr?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "230dcfe9-6dd9-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Wie ist der Reiseverkehr derzeit eingeschränkt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "230dcfea-6dd9-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Welche Reisen sind noch erlaubt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "230dcfeb-6dd9-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Welche Hinweise gelten für Auslandsreisen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "230dcfec-6dd9-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Darf ich zur Zeit eine Auslandsreise machen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "230dcfed-6dd9-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Ist es erlaubt in andere Länder zu reisen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "230dcfee-6dd9-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Darf ich jetzt in den Urlaub fahren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "230dcfef-6dd9-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Welche Vorschriften gelten für Reisen ins Ausland?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "230dcff0-6dd9-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Wie ist der grenzüberschreitende Reiseverkehr geregelt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "230dcff1-6dd9-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Darf man das Land noch verlassen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "230dcff2-6dd9-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Ist es ratsam den Urlaub zu verschieben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "230dcff3-6dd9-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Kann ich meinen Auslandsurlaub antreten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "230dcff4-6dd9-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Reiseverkehr",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "230dcff5-6dd9-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Muss ich meinen Hotelaufenthalt selbst stornieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "230dcff6-6dd9-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "kriege ich das Geld bei Pauschalreisen zurück?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "230dcff7-6dd9-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Was passiert mit meiner Pauschalreise?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

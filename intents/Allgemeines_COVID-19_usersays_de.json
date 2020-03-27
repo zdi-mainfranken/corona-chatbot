@@ -1,0 +1,554 @@
+[
+  {
+    "id": "228a6470-6e9c-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "wie lange bin ich ansteckend?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "228a6471-6e9c-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "wie hoch ist ansteckungsgefahr?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "228a6472-6e9c-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "wie lange ist die Inkubationszeit?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "228a6473-6e9c-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Was ist Covid19?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "228a6474-6e9c-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wo gibt es Corona überall?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "228a6475-6e9c-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Welches Bundesland ist von Corona betroffen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "228a6476-6e9c-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Ist jedes Bundesland betroffen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "228a6477-6e9c-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Seit wann gibt es den Katastrophenfall?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "228a6478-6e9c-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wie funktioniert Covid 19?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "228a6479-6e9c-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wo hat Corona angefangen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "228a647a-6e9c-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wer ist Schuld an Corona?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "228a647b-6e9c-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wann hat Corona begonnen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "228a647c-6e9c-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Welche Übertragungswege sind bei Corona denkbar?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "228a647d-6e9c-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Welche Übertragungswege sind möglich?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "228a647e-6e9c-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wie wird Corona übertragen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "228a647f-6e9c-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Welche Infektionswege gibt es?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "228a6480-6e9c-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Hat der Corona Virus zu einem Katastrophenfall geführt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "228a6481-6e9c-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Haben wir einen Katastrophenfall?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "228a6482-6e9c-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Gibt es Corona Fälle in Würzburg?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "228a6483-6e9c-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "wer ist corona",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "228a6484-6e9c-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Was versteht man unter dem corona virus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "228a6485-6e9c-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Um was geht’s eigentlich beim Corona Virus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "228a6486-6e9c-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Was ist los?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "228a6487-6e9c-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Was ist eigentlich passiert?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "228a6488-6e9c-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Corona Virus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "228a6489-6e9c-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Was hat es auf sich mit diesem Corona Virus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "228a8b80-6e9c-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Allgemeine Informationen zu Corona",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "228a8b81-6e9c-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Was ist der COVID-19",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "228a8b82-6e9c-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Was bedeutet COVID-19",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "228a8b83-6e9c-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Virus  Infos zu Corona",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "228a8b84-6e9c-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Was ist der Corona",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "228a8b85-6e9c-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Allgemeine Infos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "228a8b86-6e9c-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Allgemeines zum Corona Virus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "228a8b87-6e9c-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Was ist Corona?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "228a8b88-6e9c-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "warum gibt es corona?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "228a8b89-6e9c-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "weitere Informationen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "228a8b8a-6e9c-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wie hoch ist die Ansteckungsgefahr?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "228a8b8b-6e9c-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "corona",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "228a8b8c-6e9c-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Ist Corona tödlich?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "228a8b8d-6e9c-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "wad heißt corona?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "228a8b8e-6e9c-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wann ist man Immun gegen Corona?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "228a8b8f-6e9c-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Hilft Alkohol gegen Corona?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "228a8b90-6e9c-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Gibt es einen Impfstoff gegen Corona?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "228a8b91-6e9c-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Ist Corona ansteckend?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "228a8b92-6e9c-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Sind Tiere Überträger?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "228a8b93-6e9c-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wo kommt Corona her?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

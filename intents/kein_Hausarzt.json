@@ -1,0 +1,32 @@
+{
+  "id": "38bcc048-35e3-42d6-bd28-f79857b25556",
+  "name": "kein_Hausarzt",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "In diesem Fall wenden Sie sich bitte an die kassenärztliche Vereinigung. Telefonnumer: MXXX oder www.kvb.de\n\n"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,64 @@
+{
+  "id": "dc3eaf01-8a6f-4f36-a8ba-ed3c3888f954",
+  "name": "Schulausfall",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Die bayerische Staatsregierung hat entschieden, dass in allen Schulen der Unterrichtsbetrieb entfällt und alle schulischen Veranstaltungen abzusagen sind - zunächst bis zum Ende der Osterferien. Das gilt also von Montag, 16.3.2020 bis einschließlich Sonntag, 19.4.2020. Schulleiterinnen und Schulleiter sind jedoch zur Anwesenheit verpflichtet und stellen die Erreichbarkeit der Schule sicher. An einigen Schulen sind Lehrkräfte von zuhause im Dienst, verschicken Unterrichtsmaterial an die Schüler und nutzen Online-Tools für die Betreuung."
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Viele hilfreiche Infos für Schüler*innen und Lehrpersonal hat das Kultusministerium online aufbereitet:"
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "FAQ Schulbetrieb",
+          "subtitle": "des Kultusministeriums",
+          "imageUrl": "https://www.km.bayern.de/bilder/km_absatz/foto/37445_37165_Symbolbild-Pixabay-Fragezeichen-auf-Tafel-gro%C3%9F.jfif",
+          "buttons": [
+            {
+              "text": "Zur Infoseite:",
+              "postback": "https://www.km.bayern.de/allgemein/meldung/6903/faq-zur-einstellung-des-unterrichtsbetriebs-an-bayerns-schulen.html#aufrechterhaltung-lernangebot"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Das könnte Dich auch interessieren:",
+          "replies": [
+            "Prüfungen_Abitur"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

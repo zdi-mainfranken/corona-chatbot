@@ -1,0 +1,628 @@
+[
+  {
+    "id": "455d9660-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wie viele Menschen haben sich angesteckt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "455d9661-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wie viele Menschen sind gestorben",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "455d9662-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Fallzahlen Bayern",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "455d9663-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Aktuelle Zahlen in Kitzingen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "455d9664-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "wie hoch ist die anzahl der erkrankten in ",
+        "userDefined": false
+      },
+      {
+        "text": "NRW",
+        "alias": "geo-state",
+        "meta": "@sys.geo-state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "455d9665-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wie hoch ist die Anzahl an betroffenen Erkrankten in ",
+        "userDefined": false
+      },
+      {
+        "text": "Frankreich",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "455d9666-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "anzahl der infizierten personen in ",
+        "userDefined": false
+      },
+      {
+        "text": "italien",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "455d9667-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "wie viele leute in ",
+        "userDefined": false
+      },
+      {
+        "text": "bayern",
+        "alias": "geo-state",
+        "meta": "@sys.geo-state",
+        "userDefined": false
+      },
+      {
+        "text": " sind mit corona infiziert",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "455dbd70-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "wie viele menschen in ",
+        "userDefined": false
+      },
+      {
+        "text": "deutschland",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      },
+      {
+        "text": " sind vom corona virus betroffen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "455dbd71-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "kannst du mir sagen wie viele personen sich mit corona bereits angesteckt haben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "455dbd72-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "wie hoch ist die anzahl der infizierten mit corona virus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "455dbd73-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "wie viele menschen hab sich mit corona angesteckt",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "455dbd74-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "wie viele sind infiziert",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "455dbd75-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "statistiken zur anzahl der infizierten",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "455dbd76-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "wie viel haben sich schon mit dem virus angesteckt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "455dbd77-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "wie viele sind schon vom COVID-19 betroffen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "455dbd78-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Ausbreitung",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "455dbd79-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wo finde ich aktuelle Daten zu Corona?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "455dbd7a-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wo finde ich Statistiken zu Corna?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "455dbd7b-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wie viele Infizierte gibt es in Deutschland?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "455dbd7c-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Welche Anzahl an Infektionsfällen gibt es?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "455dbd7d-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wie viele Personen sind infiziert?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "455dbd7e-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wie schnell steigen die Zahlen der Infizierten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "455dbd7f-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wie schnell breitet sich das Virus aus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "455dbd80-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wie schnell steigen die Infektionszahlen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "455dbd81-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wie viele Corona Fälle gibt es in Deutschland?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "455dbd82-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Welche Länder sind von Corona betroffen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "455dbd83-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wie viele Fälle gibt es international",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "455dbd84-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Fallzahlen in europäischen Ländern",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "455dbd85-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wie breitet sich Corona aus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "455dbd86-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wie breitet sich das Corona Virus in Europa aus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "455dbd87-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Aktuelle Zahlen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "455dbd88-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "wie viele Tote gibt es in Bayern?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "455dbd89-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wieviele infizierte gibt es aktuell in Würzburg?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "455dbd8a-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "wie viele infizierte?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "455dbd8b-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "wie geht es Kitzingen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "455dbd8c-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wie viele betroffene?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "455dbd8d-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wie viele Betroffene gibt es",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "455dbd8e-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "wie viele infizierte in schweinfurt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "455dbd8f-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wie viele Infizierte gibt es in Würzburg",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "455dbd90-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Aktuelle Zahlen In by",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "455dbd91-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Abschlussprüfung",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "455dbd92-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wie hoch sind die aktuellen Fallzahlen in Würzburg?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "455dbd93-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Infizierte in Würzburg?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "455dbd94-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wie viele Menschen sind bereits an Corona gestorben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "455dbd95-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wie sind die Fallzahlen in Aschaffenburg?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "455dbd96-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "aktuelle Statistik",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "455dbd97-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "wie viel eleute haben corona in würzburg",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "455dbd98-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wie viele Menschen sind in deutschland von Corona betroffen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

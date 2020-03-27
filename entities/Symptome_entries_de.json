@@ -1,0 +1,219 @@
+[
+  {
+    "value": "Husten",
+    "synonyms": [
+      "Husten",
+      "Huste",
+      "hust",
+      "keuchhusten",
+      "hustenanfall",
+      "hustenanfälle",
+      "trockener husten"
+    ]
+  },
+  {
+    "value": "Niesen",
+    "synonyms": [
+      "Niesen",
+      "nisen"
+    ]
+  },
+  {
+    "value": "Durchfall",
+    "synonyms": [
+      "Durchfall",
+      "verstopfungen",
+      "dünnschiss",
+      "dünnschiß"
+    ]
+  },
+  {
+    "value": "kopfschmerzen",
+    "synonyms": [
+      "kopfschmerzen",
+      "kopfweh",
+      "kopf weh",
+      "kopf schmerz"
+    ]
+  },
+  {
+    "value": "gliederschmerzen",
+    "synonyms": [
+      "gliederschmerzen",
+      "schmerzen in den gliedern",
+      "muskeln tuen weh",
+      "schmerzen in den lymphknoten"
+    ]
+  },
+  {
+    "value": "Nase läuft",
+    "synonyms": [
+      "Nase läuft",
+      "laufende nase"
+    ]
+  },
+  {
+    "value": "Halsschmerzen",
+    "synonyms": [
+      "Halsschmerzen",
+      "schmerzen im hals",
+      "halschmerzen",
+      "kratzigen hals",
+      "halsweh",
+      "hals entzündet",
+      "entzündeter hals",
+      "hals beschwerden"
+    ]
+  },
+  {
+    "value": "atembeschwerden",
+    "synonyms": [
+      "atembeschwerden",
+      "kann schlecht atmen",
+      "atemnot"
+    ]
+  },
+  {
+    "value": "verschleimt",
+    "synonyms": [
+      "verschleimt",
+      "schleim",
+      "schleim im hals"
+    ]
+  },
+  {
+    "value": "Rachenentzündung",
+    "synonyms": [
+      "Rachenentzüngung",
+      "Rachenendzündung",
+      "Rachenentzuendung"
+    ]
+  },
+  {
+    "value": "fieber",
+    "synonyms": [
+      "fieber",
+      "hohes fieber"
+    ]
+  },
+  {
+    "value": "bauchweh",
+    "synonyms": [
+      "bauchweh",
+      "bauchschmerzen",
+      "blähungen",
+      "magen beschwerden",
+      "bauch beschwerden"
+    ]
+  },
+  {
+    "value": "schnupfen",
+    "synonyms": [
+      "schnupfen",
+      "nase verstopft",
+      "verstopfte nase"
+    ]
+  },
+  {
+    "value": "kurzatmig",
+    "synonyms": [
+      "kurzatmig",
+      "kurzatmigkeit",
+      "kurzen atem"
+    ]
+  },
+  {
+    "value": "migräne",
+    "synonyms": [
+      "migräne"
+    ]
+  },
+  {
+    "value": "müdigkeit",
+    "synonyms": [
+      "müdigkeit",
+      "müde",
+      "trübe",
+      "schläfrig",
+      "K.O.",
+      "KO",
+      "K.O",
+      "kaputt",
+      "schlapp",
+      "schlappheit",
+      "schlaffheit",
+      "abgeschlagenheit"
+    ]
+  },
+  {
+    "value": "Lundenentzündung",
+    "synonyms": [
+      "Lundenentzündung",
+      "Lungenentzündung"
+    ]
+  },
+  {
+    "value": "geruchsverlust",
+    "synonyms": [
+      "geruchsverlust",
+      "nicht riechen können"
+    ]
+  },
+  {
+    "value": "geschmacksverlust",
+    "synonyms": [
+      "geschmacksverlust",
+      "nicht schmecken können"
+    ]
+  },
+  {
+    "value": "gelenkschmerzen",
+    "synonyms": [
+      "gelenkschmerzen",
+      "schmerzen in gelenken",
+      "athrose",
+      "gicht"
+    ]
+  },
+  {
+    "value": "muskelschmerzen",
+    "synonyms": [
+      "muskelschmerzen",
+      "schmerzen in muskel"
+    ]
+  },
+  {
+    "value": "schüttelfrost",
+    "synonyms": [
+      "schüttelfrost"
+    ]
+  },
+  {
+    "value": "Übelkeit",
+    "synonyms": [
+      "Übelkeit",
+      "erbrechen",
+      "kotzen",
+      "schlecht fühlen",
+      "übel",
+      "schlecht"
+    ]
+  },
+  {
+    "value": "kiefergelenkschmerzen",
+    "synonyms": [
+      "kiefergelenkschmerzen",
+      "kieferschmerzen",
+      "kaumuskelschmerzen",
+      "kauschmerzen",
+      "kaubeschwerden",
+      "kiefer beschwerden"
+    ]
+  },
+  {
+    "value": "auswurf",
+    "synonyms": [
+      "auswurf"
+    ]
+  }
+]

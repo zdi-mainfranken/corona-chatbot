@@ -1,0 +1,338 @@
+[
+  {
+    "id": "b09116b0-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Gibt es grundsätzlich Hinweise zum persönlichen Verhalten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b09116b1-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Welche Verhaltensanpassungen sind nötig um eine Infektion zu vermeiden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b09116b2-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wie kann ich eine Infektion vorbeugen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b09116b3-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Mit wem darf ich mich jetzt noch treffen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b09116b4-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Welche Treffen kann ich noch wahrnehmen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b09116b5-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Welchen Abstand muss ich zu anderen Menschen halten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b09116b6-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wie kann ich mich vor einer Infektion mit dem Virus schützen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b09116b7-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Gibt es einfache Regeln, die ich im privaten Umfeld befolgen sollte?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b09116b8-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Welche Schutzmaßnahmen sollte ich privat ergreifen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b09116b9-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Muss ich mich von anderen Menschen fernhalten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b09116ba-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Welche Ratschläge kann ich Freunden und Familienmitgliedern geben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b09116bb-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Welche Ratschläge kann ich anderen Menschen geben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b0913dc0-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Muss ich den direkten Kontakt mit Menschen jetzt vermeiden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b0913dc1-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Ist es erlaubt Freunde und Nachbarn zu besuchen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b0913dc2-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wie muss ich mein Verhalten aktuell einschränken?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b0913dc3-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Welche Verhaltensempfehlungen gibt es in Bezug auf Corona?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b0913dc4-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wie sollte ich mich jetzt verhalten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b0913dc5-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Sollte ich von einem Besuch meiner Großeltern absehen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b0913dc6-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Kann ich noch zu meinen Nachbarn gehen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b0913dc7-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "wie kann ich mich schützen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b0913dc8-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Darf ich m(16) meine Freundin in Marktbreit besuchen gehen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b0913dc9-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Darf ich meine Freundin besuchen gehen in marktbreit weiblich und 16",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b0913dca-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Darf ich eine Freundin besuchen, die ich auf Tinder kennen gelernt habe? Also wir sind noch nicht zusammen, daher keine Lebenspartner. Dürfen wir uns trotzdem treffen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b0913dcb-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Darf mich meine Freundin besuchen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b0913dcc-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Darf ich zu meiner Freundin?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b0913dcd-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Darf ich noch meine Freundin besuchen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b0913dce-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Dürfen mich Freunde besuchen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b0922820-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wann darf ich wieder soziale Kontakte persönlich pflegen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

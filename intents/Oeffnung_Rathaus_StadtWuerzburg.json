@@ -1,0 +1,46 @@
+{
+  "id": "301acc70-62d6-4d67-ba04-bb73efd128f2",
+  "name": "Oeffnung_Rathaus_StadtWuerzburg",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Das Rathaus und die Außenstellen der Stadtverwaltung bleiben grundsätzlich ab Freitag, 20. März 2020 für die Bürger geschlossen. \nDie Gefahr einer Ansteckung mit dem Corona-Virus verringert sich durch vermiedene Sozialkontakte – sowohl für das Personal als auch für den Publikumsverkehr.\n\nMit den Dienststellen kann ein Austausch per Telefon(-konferenz), Mail oder Fax erfolgen. In unaufschiebbaren Einzelfällen können auch persönliche Termine direkt mit den Fachdienststellen vereinbart werden. In einem solchen Ausnahmefall erfolgt der Zugang zum Rathaus nur noch über den Eingang Rückermainstraße."
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Weite Informationen",
+          "imageUrl": "https://storage.googleapis.com/media-intent-management-system/1584694732048Rathaus.jpeg",
+          "buttons": [
+            {
+              "text": "Zur Webseite",
+              "postback": "https://www.wuerzburg.de/themen/gesundheit-soziales/coronavirus/index.html"
+            }
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

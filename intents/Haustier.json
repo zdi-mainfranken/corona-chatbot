@@ -1,0 +1,32 @@
+{
+  "id": "3f493b77-37a8-4e11-826e-b7a23085a882",
+  "name": "Haustier",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Tiere können nicht an Corona erkranken. Es ist bisher kein einziger Fall bekannt, dass sich ein Hund oder eine Katze nachweislich mit dem Erreger infiziert hat. Jedoch ist es möglich, dass das Virus von Tieren an Menschen übertragen wird. Zwar nicht aus sich selbst heraus, aber wenn sie Kontakt mit erkrankten Menschen hatten. Wenn z.B. der Erreger durch Streicheln auf dem Fell des Tiers landet. Experten schätzen das Risiko einer Übertragung vom Tier auf einen Menschen aber gering ein."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

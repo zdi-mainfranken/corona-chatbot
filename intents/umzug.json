@@ -1,0 +1,32 @@
+{
+  "id": "9ee4ff13-cd96-41a4-8c02-8c9a64200526",
+  "name": "umzug",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Der Abschluss eines Mietvertrages und eine Wohnungsübergabe sind nicht explizit verboten. Wichtig ist zu überlegen, ob der Termin jetzt stattfinden muss oder auf einen späteren Zeitpunkt verschoben werden kann. Ein Umzugsunternehmen darf den Umzug durchführen, denn berufliche Tätigkeiten sind erlaubt. Keinesfalls sollten „Freunde und Familie“ beim Umzug mit anpacken, sofern sie nicht Angehörige des eigenen Hausstandes sind."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

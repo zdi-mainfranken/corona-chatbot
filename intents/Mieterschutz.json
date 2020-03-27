@@ -1,0 +1,47 @@
+{
+  "id": "d665aca4-c796-4b43-b0dd-0b6104be4553",
+  "name": "Mieterschutz",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Im neuen Maßnahmenpaket der Bundesregierung ist auch ein Kündigungsschutz für Mieterinnen und Mieter beschlossen (Stand 25.03.). Das Recht der Vermieter zur Kündigung von Mietverhältnissen wird eingeschränkt. Dies gilt für Wohn-  und für Gewerberaummietverträge. Wegen Mietschulden aus dem Zeitraum zwischen dem 1. April 2020 und dem 30. Juni 2020 dürfen Vermieter das Mietverhältnis nicht kündigen, sofern die Mietschulden auf den Auswirkungen der COVID-19-Pandemie beruhen. Die Verpflichtung der Mieter zur fristgerechten Zahlung der Miete bleibt hier jedoch bestehen. "
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Bundesjustizministerium",
+          "subtitle": "Erläuterungen zum Maßnahmenpaket",
+          "imageUrl": "https://www.bmjv.de/SiteGlobals/Frontend/Images/logo.gif?__blob\u003dnormal\u0026v\u003d8",
+          "buttons": [
+            {
+              "text": "Zum Artikel:",
+              "postback": "https://www.bmjv.de/SharedDocs/Artikel/DE/2020/032320_Corona_FH.html"
+            }
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

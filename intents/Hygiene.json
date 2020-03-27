@@ -1,0 +1,32 @@
+{
+  "id": "1339224e-84f8-46f5-acac-f63319a10c5b",
+  "name": "Hygiene",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Die wichtigste Regel ist Abstand halten zu anderen Menschen. Die Empfehlung der Experten lautet, mindestens 1,5 m, wenn möglich noch mehr Distanz einzuhalten. Bleiben Sie gesund!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

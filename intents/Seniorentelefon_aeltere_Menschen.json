@@ -1,0 +1,32 @@
+{
+  "id": "7082653c-f7a2-4408-9ba6-3f6bb00eda5d",
+  "name": "Seniorentelefon_aeltere_Menschen",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Ältere Personen und Personen mit Vorerkrankungen (Risikogruppen) sollten unbedingt mind. 1,5 Meter Abstand zu anderen Menschen halten und dringend zuhause bleiben. Sie sind durch den Virus besonders gefährdet - die Ansteckungsgefahr ist hoch.\n\nDie Stadt Würzburg hat nun ein Seniorentelefon eingerichtet. Es ist ein Angebot für alle Seniorinnen und Senioren und hilfsbedürftige Menschen, die einen akuten nichtmedizinischen Hilfebedarf haben. \nDie Hotline ist von Montag bis Freitag von 8 bis 16 Uhr unter der Telefonnummer WXXX erreichbar. Das Seniorentelefon ersetzt nicht die Bürgertelefone der Stadt und des Landkreis Würzburg und der Kassenärztlichen Vereinigung."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

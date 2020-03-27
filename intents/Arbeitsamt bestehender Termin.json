@@ -1,0 +1,56 @@
+{
+  "id": "dc8ccb0d-9930-4fa2-877a-9074ca5fbf2c",
+  "name": "Arbeitsamt bestehender Termin",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Für alle schon vereinbarten Termine bei der Agentur für Arbeit gilt: Kundinnen und Kunden müssen den Termin NICHT absagen. Es gibt keine Nachteile. Es gibt keine Rechtsfolgen und Sanktionen. Fristen in Leistungsfragen werden vorerst ausgesetzt. Die Kundinnen und Kunden erhalten rechtzeitig eine Nachricht, wenn sich diese Regelungen ändern. Neue Termine bitte nur in Notfällen vereinbaren."
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Kontaktmöglichkeit WUE",
+          "imageUrl": "https://wiaf.de/wp-content/uploads/2019/06/Logo-BA.jpg",
+          "buttons": [
+            {
+              "text": "Zur Webseite",
+              "postback": "https://www.arbeitsagentur.de/vor-ort/wuerzburg/startseite"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Ähnliches Thema:",
+          "replies": [
+            "Agentur_fuer_Arbeit"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

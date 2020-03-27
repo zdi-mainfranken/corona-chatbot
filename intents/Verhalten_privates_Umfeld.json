@@ -1,0 +1,64 @@
+{
+  "id": "b9d8ced5-c828-4d26-8f6b-3b2ad1cbb1d4",
+  "name": "Verhalten_privates_Umfeld",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Zur Zeit gilt eine Ausgangsbeschränkung. Bleibe also, wenn keine triftigen Gründe vorliegen, zu Hause. Meide dringend Menschenansammlungen. Schränke  insbesondere deine persönlichen Begegnungen mit älteren, hochbetagten oder chronisch kranken Menschen zu deren Schutz ein. Auch das Treffen von Freunden ist zur Zeit so gut wie nicht möglich. Nutze stattdessen vermehrt die Kommunikation per Telefon, E-Mail, Chats, etc. und beachte die Besuchsregelungen für Krankenhäuser und sonstige Pflegeeinrichtungen. \n\nBesuche von öffentlichen Einrichtungen sind momentan bis auf wenige Ausnahmen nicht möglich."
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": " Aufenthaltsräume sollten regelmäßig gelüftet werden und körperlicher Kontakt vermieden werden. \nWenn eine Person in Deinem Haushalt erkrankt ist, sorge nach Möglichkeit für eine räumliche Trennung und genügend Abstand zu den übrigen Haushaltsmitgliedern. "
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Mehr Informationen",
+          "imageUrl": "https://storage.googleapis.com/media-intent-management-system/1584720885638Rathaus.jpeg",
+          "buttons": [
+            {
+              "text": "Zur Webseite",
+              "postback": "https://www.infektionsschutz.de/coronavirus/verhalten.html"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Weitere Informationen dazu:",
+          "replies": [
+            "Ausgangssperre",
+            "Freizeit"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

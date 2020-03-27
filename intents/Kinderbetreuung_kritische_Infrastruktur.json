@@ -1,0 +1,56 @@
+{
+  "id": "049e1d19-d2a3-4b31-995f-1b3fc39d0228",
+  "name": "Kinderbetreuung_kritische_Infrastruktur",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "\nEine dezentrale Not-Betreuung in kleinen Gruppen in Schulen und Kitas ist u.U. möglich. Auf die zu betreuenden Kinder bzw. deren Eltern müssen aber bestimmte Kriterien zutreffen - sie müssen zur kritischen Infrastruktur gehören. \nIn Abstimmung zwischen dem Schul- und Sozialreferat der Stadt Würzburg wurde eine Liste mit Berufsgruppen erstellt, die hierzu gehören und deren Kinder unter gewissen Voraussetzungen betreut werden dürfen. Diese finden Sie auf der Webseite der Stadt Würzburg unter dem Reiter \"Informationen für Eltern\"\n\nDer Kreis der zur Notbetreuung Berechtigten wurde mit Entscheidung der Bayerischen Staatsregierung vom 21. März 2020 ausgeweitet: In der Gesundheitsversorgung und der Pflege kann es aufgrund der aktuellen Krisensituation zu einem steigenden Personalbedarf kommen. In diesen beiden Bereichen besteht daher ab dem 23. März 2020 die Berechtigung zur Notbetreuung schon dann, wenn nur ein Elternteil in einem der abschließend genannten Bereiche tätig ist. "
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Weite Informationen",
+          "imageUrl": "https://storage.googleapis.com/media-intent-management-system/1584697168637Rathaus.jpeg",
+          "buttons": [
+            {
+              "text": "Zur Webseite",
+              "postback": "https://www.wuerzburg.de/themen/gesundheit-soziales/coronavirus/index.html"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Weitere hilfreiche Informationen dazu:",
+          "replies": [
+            "Kinderbetreuung_allg"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

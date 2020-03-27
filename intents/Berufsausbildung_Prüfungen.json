@@ -1,0 +1,53 @@
+{
+  "id": "b1fd0ffd-9fae-4a50-9434-906d8d2bdf70",
+  "name": "Berufsausbildung_Prüfungen",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Alle Prüfungen in den IHK Ausbildungsberufen und IHK Fortbildungsabschlüssen sind abgesagt! Das gilt zunächst bis zum 19.04.2020."
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "\nDie zuständigen IHK-Gremien haben sich darauf verständigt, die zwischen dem 16.03. und 20.03.2020 ausgefallenen Zwischenprüfungen ersatzlos entfallen zu lassen. Auf ein nachträgliches Ablegen der Zwischenprüfung wird für die im Frühjahr 2020 bei den betroffenen Prüflingen verzichtet, da die Prüfungsleistung der Zwischenprüfung auch nicht in das Endergebnis einfließt. Das Aussetzen der Zwischenprüfung gilt ausschließlich für die im Frühjahr 2020 betroffenen Prüflinge.\n\nFür Nachholtermine von Prüfungen wird Dich Deine IHK informieren."
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Aktuelle Informationen",
+          "imageUrl": "https://storage.googleapis.com/media-intent-management-system/1584701591437IHK.png",
+          "buttons": [
+            {
+              "text": "Zur Webseite",
+              "postback": "https://www.wuerzburg.ihk.de/coronavirus/ihk-aus-und-weiterbildungspruefungen.html"
+            }
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

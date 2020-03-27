@@ -1,0 +1,49 @@
+{
+  "id": "ff5c4f13-fb63-43b1-9b01-18faaa26c444",
+  "name": "ehehaltenhaus",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "In dem Seniorenheim \"Ehehaltenhaus\" sind seit Anfang März mehrere Personen erkrankt und einige gestorben. "
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Info aus der Presse",
+          "imageUrl": "https://www.mainpost.de/pics/mp2015/layout/header-logo_mp.png",
+          "buttons": [
+            {
+              "text": "MainPost, 21.3.",
+              "postback": "https://www.mainpost.de/regional/wuerzburg/Corona-im-Seniorenheim-So-ist-die-aktuelle-Lage-im-Ehehaltenhaus;art735,10426194"
+            },
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

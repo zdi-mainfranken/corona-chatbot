@@ -1,0 +1,56 @@
+{
+  "id": "3495c415-243b-4cec-9a5f-fabb13bfeb1b",
+  "name": "Start-Up",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Der Plattformbetreiber Startnext hat eine Kampagne für Gründer und Kreative zur Sammlung von Kapital mittels Crowdfunding im Zuge der Corona-Krise gestartet.  Denn nicht für alle, die vom Shut-Down betroffen sind, gibt es ein passendes staatliches Hilfspaket. Unterstützt wird die Kampagne durch www.mainstarter.de , eine Initiative der IHK Würzburg-Schweinfurt. Weitere Infos auf der Seite von Startnext:"
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Startnext Corona Hilfe",
+          "imageUrl": "https://www.startnext.com/media/thumbnails/ed8/cc7928aa9486385f4e55d08e4c504ed8/122b6345/corona_fonds_headervisual_v1_2x_1584544613.jpg",
+          "buttons": [
+            {
+              "text": "Zur Webseite:",
+              "postback": "https://www.startnext.com/pages/hilfsfonds"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Ähnliche Themen:",
+          "replies": [
+            "Kleinunternehmen"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

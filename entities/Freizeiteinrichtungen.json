@@ -1,0 +1,9 @@
+{
+  "id": "810eb445-4b8d-4e23-a2dc-5cd23b96f5c5",
+  "name": "Freizeiteinrichtungen",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

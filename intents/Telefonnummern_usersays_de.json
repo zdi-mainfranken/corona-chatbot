@@ -1,0 +1,110 @@
+[
+  {
+    "id": "2697a8f0-6e94-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Ich muss jemanden anrufen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2697d000-6e94-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Notfalltelefon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2697d001-6e94-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Hotline?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2697d002-6e94-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Telefonnummern?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2697d003-6e94-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wo muss ich anrufen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2697d004-6e94-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Gibt es ein Telefon?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2697d005-6e94-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "telefon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2697d006-6e94-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wer hilft mir, wenn ich in Quarantäne muss?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2697d007-6e94-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Ich habe gerade erfahren, dass eine Person aus Erfurt mit der ich vor einer Woche Kontakt hatte, an corona infiziert ist. Welche Telefonnummer muss ich anrufen um baldmöglichst einen Termin für einen Test zu bekommen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

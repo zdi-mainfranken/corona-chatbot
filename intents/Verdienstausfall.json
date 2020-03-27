@@ -1,0 +1,56 @@
+{
+  "id": "041154b8-6b67-49a2-9024-a9054607ca6d",
+  "name": "Verdienstausfall",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Verdienstausfallentschädigungen nach§ 56 Infektionsschutzgesetz (IfSG): Personen aus manchen Berufsgruppen kann ein Tätigkeitsverbot für die Erwerbsarbeit ausgesprochen werden, wenn Sie bestimmte übertragbare Krankheitserreger in sich tragen bzw. ein Verdacht dahingehend besteht. Dazu zählen u.a. Angestellte in Küchen, der Lebensmittelbranche, in Gaststätten und Jugend- / Kindereinrichtungen. Wenn dann ein Verdienstausfall eintritt, kann u.U. ein Recht auf Entschädigung bestehen. Ansprechpartner hierfür ist die Regierung von Unterfranken. Informationen über untenstehenden Link:"
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Bayern Portal",
+          "imageUrl": "http://www.freistaat.bayern/images/logos/bayernportal_logo.png",
+          "buttons": [
+            {
+              "text": "Zur Online-Info:",
+              "postback": "http://www.freistaat.bayern/dokumente/leistung/668069451898?plz\u003d97074\u0026behoerde\u003d07664863389\u0026gemeinde\u003d491084340577"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Ähnliche Themen:",
+          "replies": [
+            "Arbeitnehmerrechte"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

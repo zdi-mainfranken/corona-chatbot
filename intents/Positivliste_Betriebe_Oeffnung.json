@@ -1,0 +1,81 @@
+{
+  "id": "5d6957d8-421c-4bf2-b9e3-7fa0ee253b3b",
+  "name": "Positivliste_Betriebe_Oeffnung",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "3afb7755-6ea1-11ea-a1b9-c3fbaf202271",
+          "required": false,
+          "dataType": "@Betriebe",
+          "name": "Betriebe",
+          "value": "$Betriebe",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "20.3.:\nGeöffnet sind: Lebensmittelhandel, Getränkemärkte, Tierbedarf, Banken, Apotheken, Drogerien, Sanitätshäuser, Optiker, Hörgeräteakustiker, Post, Tankstellen, Reinigungen, KFZ-Werkstätten. Gastronomiebetriebe sind geschlossen, außer zur Mitnahme von Speisen. Soweit es medizinisch dringend erforderlich ist, ist der Besuch helfender Berufe erlaubt.\n\nBriefwahlunterlagen dürfen abgegeben werden.\n\nNicht geöffnet sind:\nSonstige Geschäfte, u.a. Bau- und Gartenmärkte, Friseure. "
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Weitere Infos",
+          "imageUrl": "https://storage.googleapis.com/media-intent-management-system/1585047631339platzhalterbild_chatbot.png",
+          "buttons": [
+            {
+              "text": "IHK Wü/SW",
+              "postback": "https://www.wuerzburg.ihk.de/coronavirus/rechtliche-informationen/betriebsuntersagungen.html"
+            },
+            {
+              "text": "Positivliste Regierung",
+              "postback": "https://www.stmgp.bayern.de/wp-content/uploads/2020/03/20200323_positivliste_av_betriebsuntersagungen.pdf"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Infos für Handwerksbetriebe",
+          "subtitle": "HWK",
+          "imageUrl": "https://storage.googleapis.com/media-intent-management-system/1585141418088image.png",
+          "buttons": [
+            {
+              "text": "Informationen für Handwerksbetriebe",
+              "postback": "Informationen für Handwerksbetriebe"
+            },
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

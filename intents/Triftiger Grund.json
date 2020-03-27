@@ -1,0 +1,64 @@
+{
+  "id": "3aec6659-b371-425e-8641-4a733bc0815a",
+  "name": "Triftiger Grund",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Die Einhaltung der Ausgangsbeschränkung wird überprüft. Im Falle einer Kontrolle muss der Betroffene  seine triftigen Gründe für den Ausgang erklären. Was triftige Gründe sind, verrät die Allgemeinverfügung vom 20. März 2020 unter Punkt 5. (z.B. berufliche / medizinische / spezielle familiäre Motive). Untenstehend ein Link dazu:"
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Allgemeinverfügung 20. März",
+          "imageUrl": "https://images.pexels.com/photos/3951602/pexels-photo-3951602.jpeg?auto\u003dcompress\u0026cs\u003dtinysrgb\u0026dpr\u003d2\u0026h\u003d750\u0026w\u003d1260",
+          "buttons": [
+            {
+              "text": "Zum PDF-Dokument:",
+              "postback": "https://www.bayern.de/wp-content/uploads/2020/03/20-03-20-ausgangsbeschraenkung-bayern-.pdf"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Beleg bei polizeilicher Kontrolle: Wenn man beruflich unterwegs ist, soll man das laut Bayerischem Innenministerium mit einem Dokument nachweisen. Viele Beschäftigte haben von ihren Arbeitgebern einen Dienstausweis, Werksausweis o.ä. erhalten. \nGibt der Arbeitgeber solche Dokumente nicht aus, sollte er gebeten werden, eine formlose Bestätigung auszustellen, die in Kombination mit dem Personalausweis/Reisepass vorgezeigt wird. Selbständige können bspw. einen Auftrag oder eine Anforderung des Kunden bereithalten; wer zum Arzt oder in die Apotheke muss kann etwa einen Terminzettel oder ein Rezept vorzeigen."
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Ähnliche Themen:",
+          "replies": [
+            "Ausgangsbeschränkung",
+            "Sicherheit"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,59 @@
+{
+  "id": "ea4761a4-cabe-40b9-92d7-911fb0518682",
+  "name": "Grenzkontrollen_Pendelverkehr_Warenströme",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Bundesinnenminister Seehofer hat in Abstimmung mit den Nachbarstaaten und den betroffenen Bundesländern entschieden, zur weiteren Eindämmung der Infektionsgefahren durch das Corona-Virus vorübergehende Grenzkontrollen einzuführen. Die Kontrollen an den Binnengrenzen zu Österreich, der Schweiz, Frankreich, Luxemburg und Dänemark gelten zunächst bis zum 26. März 2020. \nDer grenzüberschreitende Warenverkehr sowie der grenzüberschreitende Verkehr von Berufspendlern bleiben gewährleistet. "
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Weitere Informationen",
+          "subtitle": "Informationen zum grenzüberschreitenden Pendelverkehr, Zug-, See- und Luftverkehr ",
+          "imageUrl": "https://storage.googleapis.com/media-intent-management-system/1584644521332reise.jpeg",
+          "buttons": [
+            {
+              "text": "Zur Webseite",
+              "postback": "Zur Webseite"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Was möchtest du sonst wissen?",
+          "replies": [
+            "Reiseverkehr",
+            "Risikogebiete",
+            "Dienstreisen"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

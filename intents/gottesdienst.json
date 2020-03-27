@@ -1,0 +1,53 @@
+{
+  "id": "1194288c-90b2-4728-a0ae-8947696b6f29",
+  "name": "gottesdienst",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Gottesdienste finden seit dem 17.3. nicht mehr statt, um die Ansteckungsgefahr zu minimieren. Die Kirchen sind jedoch für Gebet und Beichte offen. Taufen, Firmungen und Erstkommunionsfeiern finden nicht statt, Beerdigungen nur im engsten Angehörigenkreis. Teilweise gibt es die Möglichkeit Sonntagsmessen online zu verfolgen - Informationen dazu im untenstehenden Link."
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Gottesdienste Bistum",
+          "imageUrl": "https://www.bistum-wuerzburg.de/typo3conf/ext/bistum_baukasten/Resources/Public/Images/logo/logo-black.png",
+          "buttons": [
+            {
+              "text": "Link BR",
+              "postback": "https://www.br.de/nachrichten/bayern/keine-oeffentlichen-gottesdienste-ab-17-maerz-im-bistum-wuerzburg,RtPlyFl"
+            },
+            {
+              "text": "Gottesdienste Livestream",
+              "postback": "https://www.bistum-wuerzburg.de/service/coronavirus-information-und-hilfe/uebertragungen/"
+            },
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,42 @@
+{
+  "id": "db9d67ac-bea0-4d8b-a70d-fc1f19bb52a7",
+  "name": "Ernährung",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Eine ausgewogene und gesunde Ernährung hilft dem Immunsystem immer. Du musst Deine Ernährung nicht wegen Corona umstellen und darfst nach wie vor alles essen, selbst wenn Du den Virus in Dir trägst. Es gibt keine medizinischen Empfehlungen, die bestimmte Lebensmittel untersagen oder als heilsam gegen COVID-19 einstufen."
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Ähnliches Thema:",
+          "replies": [
+            "Einkauf Lebensmittel"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

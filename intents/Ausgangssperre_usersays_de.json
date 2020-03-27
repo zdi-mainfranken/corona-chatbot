@@ -1,0 +1,446 @@
+[
+  {
+    "id": "bd5166c0-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Darf ich meine Oma besuchen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bd5166c1-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Ich will meine familie besuchen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bd5166c2-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Kann ich meine Eltern besuchen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bd5166c3-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Ich will meine Mutter besuchen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bd5166c4-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "darf ich meine Familie treffen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bd5166c5-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Ausgangsbeschränkung",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bd5166c6-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Söder Ausgangssperre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bd5166c7-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "sperre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bd5166c8-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "ausgangssperre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bd5166c9-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Darf ich raus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bd5166ca-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Darf ich meine Wohnung verlassen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bd5166cb-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Darf ich zur Arbeit?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bd5166cc-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Darf ich spazierengehen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bd5166cd-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Darf ich rausgehen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bd5166ce-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Darf ich das Haus verlassen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bd5166cf-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Gibt es eine Ausgangssperre?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bd5166d0-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "darf ich noch meine wohnung verlassen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bd5166d1-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Darf ich mit dem Hund raus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bd5166d2-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "wie lange geht die Ausgangssperre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bd5166d3-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Darf ich noch raus gehen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bd5166d4-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Darf man Kumpels zuhause treffen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bd5166d5-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Pendler",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bd5166d6-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Arbeitsweg ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bd5166d7-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "dienstfahrten",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bd5166d8-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "darf ich wegen der Ausgangssperre noch auf die Arbeit fahren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bd5166d9-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Gibt es Ausgangssperren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bd5166da-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Darf ich noch auf die Arbeit fahren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bd5166db-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Hallo! Ich studiere in Würzburg aber halte mich momentan aufgrund eines Praktikums in Berlin auf. Ich würde gerne wieder nach Würzburg, da ich dort eine Wohnung habe und mein Praktikum am Freitag endet. Ist dies nach wie vor möglich?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bd5166dc-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Ich möchte gerne nach draußen, weiß aber nicht ob ich darf",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bd5166dd-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Joggen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bd5166de-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "darf ich am Main joggen gehen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bd5166df-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Spazierengehen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bd5166e0-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wie lange dauert die Ausgangssperre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bd5166e1-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Darf ich draussen Sport treiben",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bd5166e2-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wie lange ist die Ausgangssperre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bd5166e3-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wie lange hält die Ausgangssperrean?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bd5166e4-6ea1-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Darf ich draußen Grillen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

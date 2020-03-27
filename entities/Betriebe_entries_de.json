@@ -1,0 +1,412 @@
+[
+  {
+    "value": "Apotheke",
+    "synonyms": [
+      "Apotheke",
+      "Arzneiausgabe",
+      "Apotheken",
+      "Arzneiläden",
+      "Pharmaläden",
+      "Pharmazeuten"
+    ]
+  },
+  {
+    "value": "Dienstleistungsanbieter",
+    "synonyms": [
+      "Dienstleistungsanbieter",
+      "Dienstleistungen",
+      "Schule",
+      "Kindergarten",
+      "Dienstleister",
+      "friseur",
+      "tabakladen",
+      "tankstelle",
+      "Optiker",
+      "Sparkasse",
+      "Online Händler",
+      "Online Handel",
+      "Stadtführungen",
+      "Kindergärten",
+      "Kitas",
+      "Kita",
+      "tankstellen",
+      "tankstellenshops"
+    ]
+  },
+  {
+    "value": "öffentliche Einrichtungen",
+    "synonyms": [
+      "öffentliche einrichtungen",
+      "Krankenhaus",
+      "Ärztliche Einrichtungen",
+      "Sanitätshäuser",
+      "krankenhäuser",
+      "ärtzliche einrichtungen",
+      "bereitschafts arzt",
+      "hospital",
+      "hospilats",
+      "hospitäle"
+    ]
+  },
+  {
+    "value": "Gastronomie",
+    "synonyms": [
+      "Gastronomie",
+      "Restaurants",
+      "McDonals",
+      "Burger King",
+      "Döner",
+      "Pizzeria",
+      "Restaurant",
+      "Eisdiele",
+      "Café",
+      "Cafe",
+      "Clubs",
+      "Disko",
+      "Diskothek",
+      "Disco",
+      "Imbissbuden"
+    ]
+  },
+  {
+    "value": "Hotels",
+    "synonyms": [
+      "Hotels",
+      "Unterkunft",
+      "Jugendherrberge",
+      "Zeltplatz",
+      "Campingplatz",
+      "campingbetriebe",
+      "unterkünfte",
+      "ferienhäuser",
+      "ferienwohnungen",
+      "hotel",
+      "hotelkette",
+      "hotelketten"
+    ]
+  },
+  {
+    "value": "Einzelhandel",
+    "synonyms": [
+      "Einzelhandel",
+      "DM",
+      "Drogeriemarkt",
+      "Einkaufsladen",
+      "Läden",
+      "Baumarkt",
+      "Tierbedarf",
+      "Fressnapf",
+      "Tierläden",
+      "Kleidungsladen",
+      "drogerien",
+      "douglas",
+      "kik",
+      "klamottenläden",
+      "einzelhändler"
+    ]
+  },
+  {
+    "value": "Banken",
+    "synonyms": [
+      "Banken",
+      "Finanzhäuser",
+      "Kredithäuser",
+      "Geldhäuser"
+    ]
+  },
+  {
+    "value": "Baumärkte",
+    "synonyms": [
+      "Baumärkte"
+    ]
+  },
+  {
+    "value": "Gartengeschäfte",
+    "synonyms": [
+      "Gartengeschäfte",
+      "Gartenläden"
+    ]
+  },
+  {
+    "value": "Rossmann",
+    "synonyms": [
+      "Rossmann"
+    ]
+  },
+  {
+    "value": "OBI",
+    "synonyms": [
+      "OBI"
+    ]
+  },
+  {
+    "value": "Bäcker",
+    "synonyms": [
+      "Bäcker",
+      "bäckereien",
+      "backstuben"
+    ]
+  },
+  {
+    "value": "Universitäten",
+    "synonyms": [
+      "Universitäten",
+      "Universität",
+      "Hochschulen",
+      "Schulen",
+      "Lerneinrichtungen",
+      "Schuleinrichtungen"
+    ]
+  },
+  {
+    "value": "Medizinische einrichtung",
+    "synonyms": [
+      "Medizinische einrichtung",
+      "medizinische einrichtungen"
+    ]
+  },
+  {
+    "value": "weinhändler",
+    "synonyms": [
+      "weinhändler",
+      "Spirituosenläden",
+      "Süßwarengeschäfte",
+      "Feinkostgeschäfte",
+      "weinhandel",
+      "spirituosenladen",
+      "süßwarenhandel"
+    ]
+  },
+  {
+    "value": "Lebensmittelhandel",
+    "synonyms": [
+      "Lebensmittelhandel",
+      "lebensmittelhändler",
+      "denns",
+      "biomärkte",
+      "biomarkt",
+      "penny",
+      "kupsch",
+      "edeka",
+      "Aldi",
+      "norma",
+      "lidl",
+      "teegut",
+      "rewe"
+    ]
+  },
+  {
+    "value": "Getränkemärkte",
+    "synonyms": [
+      "Getränkemärkte",
+      "getränkemarkt",
+      "getränkehandel",
+      "getränkehändler",
+      "getränkeladen"
+    ]
+  },
+  {
+    "value": "Hörgeräteakuster",
+    "synonyms": [
+      "Hörgeräteakuster",
+      "akustiker",
+      "hörgerätsakustiker",
+      "hörgerätshandel",
+      "hörgerätsbetrieb"
+    ]
+  },
+  {
+    "value": "Deutsche Post",
+    "synonyms": [
+      "Deutsche Post",
+      "deutsche post AG",
+      "post",
+      "DHL",
+      "Hermes",
+      "post stellen",
+      "Paketstationen"
+    ]
+  },
+  {
+    "value": "reinigungen",
+    "synonyms": [
+      "reinigungen",
+      "reinigung"
+    ]
+  },
+  {
+    "value": "brennstoffhandel",
+    "synonyms": [
+      "brennstoffhandel"
+    ]
+  },
+  {
+    "value": "kiosk",
+    "synonyms": [
+      "kiosk",
+      "kioske"
+    ]
+  },
+  {
+    "value": "jägereibedarf",
+    "synonyms": [
+      "jägereibedarf",
+      "jägereihandel"
+    ]
+  },
+  {
+    "value": "Landhanel",
+    "synonyms": [
+      "Landhanel",
+      "düngergeschäfte"
+    ]
+  },
+  {
+    "value": "KFZ-Werkstätten",
+    "synonyms": [
+      "KFZ-Werkstätten",
+      "KFZ",
+      "Werkstätten",
+      "Ersatzteilhandel",
+      "KFZ werkstatt"
+    ]
+  },
+  {
+    "value": "Autovermietstationen",
+    "synonyms": [
+      "Autovermietstationen",
+      "sixt",
+      "Automiet stationen",
+      "Autovermietstation"
+    ]
+  },
+  {
+    "value": "blumenläden",
+    "synonyms": [
+      "blumenläden",
+      "blumenhandel",
+      "floristiker"
+    ]
+  },
+  {
+    "value": "gärtnerei",
+    "synonyms": [
+      "gärtnerei",
+      "gärtnereien"
+    ]
+  },
+  {
+    "value": "baustoffhandel",
+    "synonyms": [
+      "baustoffhandel"
+    ]
+  },
+  {
+    "value": "Großhandel",
+    "synonyms": [
+      "Großhandel",
+      "metro",
+      "selgros"
+    ]
+  },
+  {
+    "value": "kaminkehrer",
+    "synonyms": [
+      "kaminkehrer"
+    ]
+  },
+  {
+    "value": "Baustellen",
+    "synonyms": [
+      "Baustellen",
+      "Baugewerbe"
+    ]
+  },
+  {
+    "value": "Lieferung",
+    "synonyms": [
+      "Lieferung",
+      "lieferungen",
+      "montage"
+    ]
+  },
+  {
+    "value": "stördienste",
+    "synonyms": [
+      "stördienste",
+      "stördienst",
+      "schlüsseldienst"
+    ]
+  },
+  {
+    "value": "Gebäudereiniger",
+    "synonyms": [
+      "Gebäudereiniger",
+      "fassadenreiniger",
+      "denkmalreiniger"
+    ]
+  },
+  {
+    "value": "taxi",
+    "synonyms": [
+      "taxi"
+    ]
+  },
+  {
+    "value": "Fahrradreparatur",
+    "synonyms": [
+      "Fahrradreparatur",
+      "Fahrradersatzteilhandel",
+      "fahrradhandel"
+    ]
+  },
+  {
+    "value": "zeitungsverkauft",
+    "synonyms": [
+      "zeitungsverkauft",
+      "zeitschriftenverkauf",
+      "zeitungsverkauf"
+    ]
+  },
+  {
+    "value": "wachsalons",
+    "synonyms": [
+      "wachsalons",
+      "waschsalon"
+    ]
+  },
+  {
+    "value": "pferdeställe",
+    "synonyms": [
+      "pferdeställe",
+      "reitställe",
+      "reitstall",
+      "reitverein"
+    ]
+  },
+  {
+    "value": "Arztpraxis",
+    "synonyms": [
+      "Arztpraxis",
+      "Arzt",
+      "Zahnarzt",
+      "Frauenarzt",
+      "Chiruge",
+      "Orthopäde",
+      "Ärzte",
+      "Ärztehaus",
+      "Psychologe",
+      "Physiologe"
+    ]
+  },
+  {
+    "value": "Tierarzt",
+    "synonyms": [
+      "Tierarzt",
+      "Arzt für Tiere",
+      "Hundearzt",
+      "Pferdearzt",
+      "Arzt für Katzen"
+    ]
+  }
+]

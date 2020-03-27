@@ -1,0 +1,73 @@
+{
+  "id": "0beb6b35-3b23-4428-92c1-b778378411fc",
+  "name": "Soforthilfe_Bayern_finanziell",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Das Soforthilfeprogramm des Bayerischen Staatsministeriums für Wirtschaft, Landesentwicklung und Energie richtet sich an Freiberufler, Selbstständige, kleine und mittlere Unternehmen mit bis zu 250 Mitarbeitern in Bayern, die von der Corona-Krise besonders geschädigt wurden und in einen Liquiditätsengpass geraten. Die Soforthilfe wird gestaffelt und soll schnell und unbürokratisch ausbezahlt werden. Die Staffelung: bis fünf Mitarbeiter 5.000 Euro, bis zehn Mitarbeiter 7.500 Euro, bis 50 Mitarbeiter 15.000 Euro, bis 250 Mitarbeiter 30.000 Euro. Das heißt nicht anzurechnen sind z. B. langfristige Alters­versorgung (Aktien, Immobilien, Lebensversicherungen, etc.) oder Mittel, die für den Lebensunterhalt benötigt werden. Den Antrag senden Sie an: soforthilfecorona@reg-ufr.bayern.de"
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "\nLiquiditätsengpass bedeutet, dass keine (ausreichende) Liquidität vorhanden, um z. B. laufende Verpflichtungen zu zahlen. Vor Inanspruchnahme der Soforthilfe ist verfügbares liquides Privatvermögen einzusetzen. Bitte befassen Sie sich mit den Antragsunterlagen und den Richtlinien, bevor Sie vorschnell einen Antrag stellen. Vorsätzlich oder leichtfertig falsche Angaben können strafrechtliche Folgen nach sich ziehen.\n\n"
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Weitere Informationen",
+          "subtitle": "Weitere Informationen zum Antragsverfahren, Höhe der Soforthilfe und zu zuständigen Behörden ",
+          "imageUrl": "https://storage.googleapis.com/media-intent-management-system/1584642949316Sofortma%C3%9Fnahmen.jpg",
+          "buttons": [
+            {
+              "text": "Info StMWi",
+              "postback": "https://www.stmwi.bayern.de/soforthilfe-corona/"
+            },
+            {
+              "text": "Info IHK Wü/SW",
+              "postback": "https://www.wuerzburg.ihk.de/coronavirus/finanzierung-foerderung-steuern.html"
+            },
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Siehe auch:",
+          "replies": [
+            "Bundeshilfen",
+            "Förderung Banken",
+            "Parallelförderung"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

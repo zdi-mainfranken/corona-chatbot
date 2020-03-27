@@ -1,0 +1,79 @@
+{
+  "id": "b1a5cf80-910e-4173-9e21-211018d8da68",
+  "name": "Reiseverkehr_Urlaub",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "230dcff8-6dd9-11ea-9dd8-09af29682fe5",
+          "required": false,
+          "dataType": "@sys.geo-state",
+          "name": "geo-state",
+          "value": "$geo-state",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Urlaube bzw. touristische Reisen ins Ausland sind derzeit weder möglich noch angebracht. An vielen deutschen Flughäfen findet kaum mehr Luftverkehr statt und die Grenzen werden kontrolliert. Stattdessen wird gerade versucht, alle deutschen Touristen aus internationalen Urlaubsdesitinationen abzuholen. Die Bundesregierung führt aktuell die größte Rückholaktion der Geschichte durch. Grundsätzlich gilt in Bayern eine Ausgangsbeschränkung; der Bewegungsspielraum der Bürger ist stark reduziert."
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Überprüfe darum bitte kritisch, wie Du Deine geplante Reise ins Ausland verschieben kannst. Für Rückzahlungen von gebuchten Pauschalreisen wende Dich bitte an Deinen Reiseanbieter.\nÜber aktuelle Reisebeschränkungen und Warnungen informiere Dich weiter auf der Seite des Auswärtigen Amts.\n"
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Weitere Informationen",
+          "imageUrl": "https://storage.googleapis.com/media-intent-management-system/1584644103516reise.jpeg",
+          "buttons": [
+            {
+              "text": "Zur Webseite",
+              "postback": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/covid-19/2296762"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Wie kann ich sonst helfen?",
+          "replies": [
+            "Risikogebiete",
+            "Dienstreisen",
+            "Grenzkontrollen",
+            "Aktuelle Zahlen"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

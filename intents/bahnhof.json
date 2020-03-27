@@ -1,0 +1,53 @@
+{
+  "id": "cead6a9d-a5a0-4d7a-86fb-d33af6a6cf2b",
+  "name": "bahnhof",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Der Bahnhof ist für Reisende geöffnet. Bei den Öffnungszeiten von Bahnhofseinrichtungen kann es zu Einschränkungen kommen. Drogeriemarkt und Tabakladen im Bahnhofsgebäude sind geöffnet. Die Bahnhofsmission macht eine Essensausgabe über eine Klappe."
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Deutsch Bahn Info",
+          "imageUrl": "https://www.deutschebahn.com/resource/crblob/1174354/be43f4a811d7d1ecbc4baa0a2c7695e5/betreiberlogo_startseite_de-data.png",
+          "buttons": [
+            {
+              "text": "PDF aktuelle Infos Bahn",
+              "postback": "https://www.deutschebahn.com/resource/blob/5029060/2454da96d2cfad85e316c590012a2596/FAQ-Corona-data.pdf"
+            },
+            {
+              "text": "Spenden",
+              "postback": "Wem Geld spenden?"
+            },
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

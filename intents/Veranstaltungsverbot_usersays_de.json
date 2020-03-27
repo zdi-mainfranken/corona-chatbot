@@ -1,0 +1,250 @@
+[
+  {
+    "id": "912c0540-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Sind die Veranstaltungen in der ",
+        "userDefined": false
+      },
+      {
+        "text": "Sporthalle",
+        "alias": "Freizeiteinrichtungen",
+        "meta": "@Freizeiteinrichtungen",
+        "userDefined": false
+      },
+      {
+        "text": " abgesagt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "912c0541-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Ist die Veranstaltung in der ",
+        "userDefined": false
+      },
+      {
+        "text": "Sporthalle",
+        "alias": "Freizeiteinrichtungen",
+        "meta": "@Freizeiteinrichtungen",
+        "userDefined": false
+      },
+      {
+        "text": " abgesagt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "912c0542-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wie weit sind Veranstaltungen betroffen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "912c0543-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "In wie weit sind Veranstaltungen abgesagt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "912c0544-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "In wie weit sind Veranstaltung von der Krise betroffen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "912c0545-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Was für Einschränkungen gibt es bei Veranstaltungen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "912c0546-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Fällt jede Veranstaltung aus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "912c0547-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "fallen die Veranstaltungen jetzt alle flach?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "912c0548-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Was ist mit einem Flohmarkt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "912c0549-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Was ist mit einer Oper?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "912c054a-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wie sieht es mit Konzerten aus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "912c054b-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wie sieht es mit Festivals aus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "912c054c-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Ich wollte eine Veranstaltung besuchen ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "912c054d-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wie sieht es mit Veranstaltungen aus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "912c054e-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Gibt es ein Verbot für Veranstaltungen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "912c054f-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Veranstaltungsverbot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "912c0550-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Darf ich feiern gehen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "912c0551-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "fällt kiliani aus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "912c0552-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wann können wir wieder Veranstaltungen durchführen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "id": "5e6ecf48-6efb-45c8-a6d8-cb7b353be626",
+  "name": "Ehrenamt_Pflege",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Du hast eine Ausbildung oder Erfahrung in einem pflegerischen Beruf, bist medizinisch-technischer Assistent oder medizinische Fachangestellte? Du willst helfen und hast Kapazitäten frei? Das Staatsministerium für Gesundheit und Pflege Bayern sucht Dich! \n\nRegistriere Dich auf der Plattform \"Pflegepool für Bayern\" und sichere die Versorgung der Bürgerinnen und Bürger in Zeiten der Epidemie! Danke vorab für Deinen Einsatz!"
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Pflegepool Bayern",
+          "imageUrl": "https://www.vdpb-bayern.de/wp-content/themes/vdpb-theme/images/logo.png",
+          "buttons": [
+            {
+              "text": "Zur Plattform:",
+              "postback": "https://www.vdpb-bayern.de/pflegepool-fuer-bayern/"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Vielleicht auch das Richtige für Dich:",
+          "replies": [
+            "Ehrenamtliche_Hilfe"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

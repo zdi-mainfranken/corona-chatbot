@@ -1,0 +1,43 @@
+{
+  "id": "776f12e4-adcb-46b9-9781-1db22db3192b",
+  "name": "Schwangerschaft",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Leider gibt es bisher nur wenige Erkenntnisse, ob und wie sich das Corona-Virus speziell auf Schwangere auswirkt. Studien liegen noch nicht vor. Keine Daten weisen darauf hin, dass man als Schwangere empfänglicher für Corona ist oder, dass schwangere Infizierte einen schwereren Verlauf zu erwarten haben. Das schreibt das Robert-Koch-Institut (24.03.2020)."
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Siehe auch:",
+          "replies": [
+            "Risikogruppe",
+            "Symptome_Corona"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

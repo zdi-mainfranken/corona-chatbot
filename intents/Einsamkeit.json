@@ -1,0 +1,42 @@
+{
+  "id": "c828ae40-a845-4092-9d01-7f1401f5ba17",
+  "name": "Einsamkeit",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Das Silbertelefon ist in ganz Deutschland erreichbar und stellt ein Gesprächsangebot für einsame ältere Menschen dar. Wer einfach mal reden möchte, kann täglich von 8 bis 22 Uhr die kostenfreie Telefonnummer 0800 4 70 80 90 von Silbernetz anrufen. Wer aufgrund der Ausgangsbeschränkung keinen Kontakt zu Angehörigen oder Freunden halten kann; sich einsam und alleine fühlt, kann sich dort melden."
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Das könnte dir auch helfen:",
+          "replies": [
+            "Sozialeinrichtung"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

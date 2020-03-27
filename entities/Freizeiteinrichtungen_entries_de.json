@@ -1,0 +1,182 @@
+[
+  {
+    "value": "Sauna",
+    "synonyms": [
+      "Sauna",
+      "Badeanstalten",
+      "Therme",
+      "Thermalbäder",
+      "Bäder",
+      "Schwimmbäder",
+      "Schwimmbad",
+      "wellnesszentren",
+      "wellnesshäuser",
+      "wellness",
+      "spa",
+      "nautiland",
+      "wolfgang adami bad",
+      "sandermare",
+      "dallenbergbad",
+      "dalle",
+      "nauti",
+      "adami bad"
+    ]
+  },
+  {
+    "value": "Kino",
+    "synonyms": [
+      "Kino",
+      "Kinos",
+      "Cinemaxx",
+      "Cinewolrd",
+      "cineworld",
+      "zentralkino"
+    ]
+  },
+  {
+    "value": "Theater",
+    "synonyms": [
+      "Theater"
+    ]
+  },
+  {
+    "value": "tagungsräume",
+    "synonyms": [
+      "tagungsräume",
+      "tagungen",
+      "veranstaltungsräume"
+    ]
+  },
+  {
+    "value": "club",
+    "synonyms": [
+      "club",
+      "dicos",
+      "disco",
+      "diskos",
+      "clubs",
+      "diskotheken",
+      "diskothek",
+      "parties",
+      "party",
+      "tanzveranstaltungen"
+    ]
+  },
+  {
+    "value": "bar",
+    "synonyms": [
+      "bar",
+      "bars",
+      "kneipe",
+      "kneipen",
+      "bierkneipe"
+    ]
+  },
+  {
+    "value": "Spielhallen",
+    "synonyms": [
+      "Spielhallen",
+      "Casinos",
+      "casino"
+    ]
+  },
+  {
+    "value": "Bordellbetriebe",
+    "synonyms": [
+      "Bordellbetriebe",
+      "Bordell",
+      "puff",
+      "bordel",
+      "bordellbetrieb"
+    ]
+  },
+  {
+    "value": "museen",
+    "synonyms": [
+      "museen",
+      "museum",
+      "kunsthallen"
+    ]
+  },
+  {
+    "value": "Stadtführungen",
+    "synonyms": [
+      "Stadtführungen",
+      "Stadtführung",
+      "führungen",
+      "führung"
+    ]
+  },
+  {
+    "value": "Sporthallen",
+    "synonyms": [
+      "Sporthallen",
+      "fitnesstudios",
+      "fitness",
+      "fitnessräume",
+      "MCfit",
+      "Fitone",
+      "fit one",
+      "mc fit",
+      "fitti",
+      "gyms",
+      "yogastudios",
+      "yoga studio",
+      "yoga einrichtungen",
+      "turnhallen",
+      "dreifachturnhallen",
+      "box",
+      "fitness box",
+      "reha sport",
+      "livestyle",
+      "kraftmühle",
+      "crossfit würzburg",
+      "mainfitness"
+    ]
+  },
+  {
+    "value": "sportplatz",
+    "synonyms": [
+      "sportplatz",
+      "spielplatz",
+      "sportplätze",
+      "freisportanlage",
+      "freisportanlagen"
+    ]
+  },
+  {
+    "value": "Bibliotheken",
+    "synonyms": [
+      "Bibliotheken",
+      "bibliothek",
+      "bücherei",
+      "bücherein"
+    ]
+  },
+  {
+    "value": "vergnügungsstätten",
+    "synonyms": [
+      "vergnügungsstätten"
+    ]
+  },
+  {
+    "value": "tanzschule",
+    "synonyms": [
+      "tanzschule",
+      "hartung",
+      "bäulke",
+      "tanzschulen",
+      "tanzeinrichtungen"
+    ]
+  },
+  {
+    "value": "tierpark",
+    "synonyms": [
+      "tierpark",
+      "zoos",
+      "zoo",
+      "streichelzoo",
+      "tierpärke"
+    ]
+  }
+]

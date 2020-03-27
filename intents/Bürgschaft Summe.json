@@ -1,0 +1,77 @@
+{
+  "id": "cf876a8e-2bd4-4e21-9d85-a36eedd94927",
+  "name": "Bürgschaft Summe",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Bis zu einem Betrag von 2,5 Millionen Euro werden Bürgschaften durch die Bürgschaftsbanken bearbeitet, darüber hinaus sind die Länder zuständig. \nEine Anfrage für ein Finanzierungsvorhaben bis 2,5 Millionen Euro kann schnell und kostenfrei über das Finanzierungsportal der Bürgschaftsbanken gestellt werden.\n"
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Finanzierungsportal Bürgschaftsbank",
+          "imageUrl": "https://vdb-info.de/dist/images/logo.png",
+          "buttons": [
+            {
+              "text": "Zur Webseite",
+              "postback": "https://finanzierungsportal.ermoeglicher.de/"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Ab einem Bürgschaftsbetrag von 20 Millionen Euro beteiligt sich der Bund unter verschiedenen Bedingungen. Bürgschaften können maximal 80 Prozent des Kreditrisikos abdecken, das heißt, die jeweilige Hausbank muss mindestens 20 Prozent Eigenobligo übernehmen.\n\nWeitere Infos dazu unter folgendem Link:"
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "BMWI Unternehmen",
+          "imageUrl": "https://www.bmwi.de/SiteGlobals/BMWI/StyleBundles/Bilder/bmwi_logo_de.svgz?__blob\u003dnormal\u0026v\u003d11",
+          "buttons": [
+            {
+              "text": "Zum Infoportal",
+              "postback": "https://www.bmwi.de/Redaktion/DE/Dossier/coronavirus.html"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Verwandte Frage:",
+          "replies": [
+            "Bürgschaft Anspruch"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "62e157bb-46a3-4007-a249-1f2aeed71012",
+  "name": "Hotelgast_Verpflegung",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Der Hotelgast darf verpflegt werden. Der Verkauf von Speisen und Getränken darf allerdings nur noch zur Mitnahme erfolgen."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

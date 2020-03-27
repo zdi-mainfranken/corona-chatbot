@@ -1,0 +1,46 @@
+{
+  "id": "5b347c73-bcd3-4663-88a5-2861e161ee1c",
+  "name": "sorry",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Tut mir Leid, dass ich Dir nicht so genau weiterhelfen kann. Ich habe hier ein paar Themen, zu denen ich Dir helfen kann:"
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Vorschläge für Dich",
+          "replies": [
+            "Firmen Soforthilfe",
+            "Ausgangsbeschränkung",
+            "Prüfungen",
+            "Förderungen Banken",
+            "Abitur"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

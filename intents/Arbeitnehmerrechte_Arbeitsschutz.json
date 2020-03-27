@@ -1,0 +1,56 @@
+{
+  "id": "55b78cf8-573e-4c40-a3e3-067491c50705",
+  "name": "Arbeitnehmerrechte_Arbeitsschutz",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Für Fragen rund um den Schutz von Arbeitnehmer*innen und ihren Rechten in Zeiten von Corona hat das BMAS hilfreiche und ausführliche Informationen zusammengestellt."
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Weitere Informationen",
+          "imageUrl": "https://storage.googleapis.com/media-intent-management-system/1584700254139Sofortma%C3%9Fnahmen.jpg",
+          "buttons": [
+            {
+              "text": "Zur Webseite",
+              "postback": "https://www.bmas.de/DE/Presse/Meldungen/2020/corona-virus-arbeitsrechtliche-auswirkungen.html"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Interessant auch hierzu:",
+          "replies": [
+            "IHK Podcast"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

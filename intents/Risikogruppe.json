@@ -1,0 +1,58 @@
+{
+  "id": "9eae4637-dc34-4806-afbb-2aed86619c0b",
+  "name": "Risikogruppe",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Zur Risikogruppe zählen insbesondere ältere Personen (es gibt ein steigendes Risiko ab 50-60 Jahren) und Vorerkrankte. Auch Raucher, Asthmatiker, Menschen mit Herz-Kreislauf-Beschwerden müssen besonders vorsichtig sein. Bei Risikopatienten kann es bei Auftreten von akutem Lungenversagen unter Umständen zum Todesfall kommen. Erfahrungen aus China zeigen, dass hingegen die unter 20-Jährigen mit 2,4 % kaum betroffen sind und oft nur geringe Symptome zeigen. Bei Kindern wurde bislang kein erhöhtes Risiko für einen schweren Erkrankungsverlauf festgestellt. Grundsätzlich verläuft die Erkrankung bei 80% der Infizierten harmlos. "
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Detailinfos zur Risikogruppe",
+          "imageUrl": "https://www.rki.de/SiteGlobals/StyleBundles/Bilder/Farbschema_A/logo_a.jpg?__blob\u003dnormal\u0026v\u003d7",
+          "buttons": [
+            {
+              "text": "Zur Website des RKI:",
+              "postback": "https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Risikogruppen.html"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Das könnte auch interessant sein:",
+          "replies": [
+            "Symptome_Corona",
+            "Allgemeines_COVID-19",
+            "Schwangerschaft"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

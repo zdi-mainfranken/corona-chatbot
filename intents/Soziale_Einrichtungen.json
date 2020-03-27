@@ -1,0 +1,79 @@
+{
+  "id": "a77c89d9-9a18-41ee-8ff0-bb65a178da2e",
+  "name": "Soziale_Einrichtungen",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Das Sozialreferat der Stadt Würzburg hat eine Liste mit der Verfügbarkeit bzw. dem Notbetrieb verschiedener sozialer Einrichtungen erstellt. Hier kannst Du sehen, wo eine Notversorgung mit Kleidern und Lebensmitteln stattfindet, wo Obdachlose unterkommen, welche Beratungsstellen erreichbar sind. Über unterstehenden Link erhältst Du Einsicht:"
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Sozialreferat Würzburg",
+          "subtitle": "Liste der Einrichtungen",
+          "imageUrl": "https://images.pexels.com/photos/339620/pexels-photo-339620.jpeg?auto\u003dcompress\u0026cs\u003dtinysrgb\u0026dpr\u003d2\u0026h\u003d750\u0026w\u003d1260",
+          "buttons": [
+            {
+              "text": "Zur Webseite:",
+              "postback": "https://www.wuerzburg.de/themen/gesundheit-soziales/coronavirus/m_565157"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Außerdem hat die AWO Unterfranken viele Hilfsangebote auf ihrer Webseite zusammengestellt, darunter bspw. Unterstützungen für Botengänge, Einkaufsservices und Telefonseelsorge:"
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Infos über Hilfsangebote",
+          "subtitle": "AWO Unterfranken",
+          "imageUrl": "https://www.wiefuerdichgemacht.com/wp-content/uploads/2018/06/Logo_AWO_png.png",
+          "buttons": [
+            {
+              "text": "Zur Webseite:",
+              "postback": "https://www.awo-unterfranken.de/information/aktuell/detail/News/solidarisch-durch-die-krise-awo-hilft/"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Siehe auch:",
+          "replies": [
+            "Ehrenamt_Hilfe"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

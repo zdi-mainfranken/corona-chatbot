@@ -1,0 +1,278 @@
+[
+  {
+    "id": "722ca320-6ce5-11ea-aa9b-d5c84b27c54f",
+    "data": [
+      {
+        "text": "Sind Besuche im Hospiz grundsätzlich erlaubt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "722ca321-6ce5-11ea-aa9b-d5c84b27c54f",
+    "data": [
+      {
+        "text": "Welches Hospiz darf ich nach wie vor besuchen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "722ca322-6ce5-11ea-aa9b-d5c84b27c54f",
+    "data": [
+      {
+        "text": "Werde ich ins Hospiz reingelassen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "722ca323-6ce5-11ea-aa9b-d5c84b27c54f",
+    "data": [
+      {
+        "text": "Ein Freund ist im Krankenhaus. Darf ich ihn besuchen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "722ca324-6ce5-11ea-aa9b-d5c84b27c54f",
+    "data": [
+      {
+        "text": "Mein Verwandter liegt auf der Intensivstation. Kann ich hin?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "722ca325-6ce5-11ea-aa9b-d5c84b27c54f",
+    "data": [
+      {
+        "text": "Ich will ein Familienmitglied im Krankenhaus besuchen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "722ca326-6ce5-11ea-aa9b-d5c84b27c54f",
+    "data": [
+      {
+        "text": "Kann ich jetzt ins Krankenhaus gehen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "722ca327-6ce5-11ea-aa9b-d5c84b27c54f",
+    "data": [
+      {
+        "text": "Unter welchen Bedingungen darf ich ins Krankenhaus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "722ca328-6ce5-11ea-aa9b-d5c84b27c54f",
+    "data": [
+      {
+        "text": "Mir geht es schlecht, ich muss ins Krankenhaus. Geht das?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "722ca329-6ce5-11ea-aa9b-d5c84b27c54f",
+    "data": [
+      {
+        "text": "Sind Hospitäler noch zu besuchen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "722ca32a-6ce5-11ea-aa9b-d5c84b27c54f",
+    "data": [
+      {
+        "text": "Unter welchen Umständen ist ein Klinikbesuch erlaubt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "722ca32b-6ce5-11ea-aa9b-d5c84b27c54f",
+    "data": [
+      {
+        "text": "Darf ich ins Uniklinikum Würzburg rein?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "722ca32c-6ce5-11ea-aa9b-d5c84b27c54f",
+    "data": [
+      {
+        "text": "Erhalte ich noch Eintritt zum Klinikum?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "722ca32d-6ce5-11ea-aa9b-d5c84b27c54f",
+    "data": [
+      {
+        "text": "Wann darf ich das Klinikum betreten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "722ca32e-6ce5-11ea-aa9b-d5c84b27c54f",
+    "data": [
+      {
+        "text": "Welche Klinik darf ich besuchen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "722ca32f-6ce5-11ea-aa9b-d5c84b27c54f",
+    "data": [
+      {
+        "text": "Ich will in eine Klinik",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "722ca330-6ce5-11ea-aa9b-d5c84b27c54f",
+    "data": [
+      {
+        "text": "Meine Mutter ist in der Klinik",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "722ca331-6ce5-11ea-aa9b-d5c84b27c54f",
+    "data": [
+      {
+        "text": "Was ist mit Krankenhäusern",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "722ca332-6ce5-11ea-aa9b-d5c84b27c54f",
+    "data": [
+      {
+        "text": "Ich muss jemanden im Krankenhaus besuchen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "722ca333-6ce5-11ea-aa9b-d5c84b27c54f",
+    "data": [
+      {
+        "text": "Darf ich ins Krankenhaus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "722ca334-6ce5-11ea-aa9b-d5c84b27c54f",
+    "data": [
+      {
+        "text": "Krankenhaus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "722ca335-6ce5-11ea-aa9b-d5c84b27c54f",
+    "data": [
+      {
+        "text": "Darf ich zum Arzt gehen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "722ca336-6ce5-11ea-aa9b-d5c84b27c54f",
+    "data": [
+      {
+        "text": "Besuch Krankenhaus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

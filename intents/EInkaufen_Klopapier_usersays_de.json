@@ -1,0 +1,254 @@
+[
+  {
+    "id": "415fc800-6df6-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Gebrauchsgüter",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "415fc801-6df6-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Wo kann ich mich mit dem Nötigsten versorgen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "415fc802-6df6-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Nahrungsversorgung",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "415fc803-6df6-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Darf man nach wie vor Nahrung einkaufen gehen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "415fc804-6df6-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Kann ich irgendwo noch Lebensmittel beziehen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "415fc805-6df6-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Wo kann ich meinen Wocheneinkauf erledigen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "415fc806-6df6-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Kann man jetzt auch am Sonntag Besorgungen machen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "415fc807-6df6-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Haben sich die Ladenöffnungszeiten geändert?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "415fc808-6df6-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Wo kann ich mir Futter besorgen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "415fc809-6df6-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Darf ich noch Essen einkaufen gehen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "415fc80a-6df6-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Sind Läden für die Versorgung des täglichen Bedarfs geöffnet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "415fc80b-6df6-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Welche Lebensmittelläden haben noch offen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "415fc80c-6df6-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Einkauf in Lebensmittelgeschäften",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "415fc80d-6df6-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Stoßzeiten einkaufen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "415fc80e-6df6-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Gibt es noch Klopapier",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "415fc80f-6df6-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Ich möchte Klopapier kaufen gehen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "415fc810-6df6-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Wie sieht es mit Klopapier aus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "415fc811-6df6-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Ich brauche Klopapier",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "415fc812-6df6-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Kann man noch Klopapier kaufen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "415fc813-6df6-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Wo kann ich Klopapier kaufen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "415fc814-6df6-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Kann ich und meine Freundin zu Mcdonald DriveIn fahren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

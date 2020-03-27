@@ -1,0 +1,57 @@
+{
+  "id": "33dd256e-6a04-44cf-8c60-76087fb475aa",
+  "name": "Stundungen_Steuern_Erleichterung",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Steuererleichterungen aufgrund der Auswirkungen des Coronavirus: \nEs werden die Möglichkeiten zur Stundung von Steuerzahlungen, zur Senkung von Vorauszahlungen und im Bereich der Vollstreckung verbessert. Das ist gerade für Freiberufler und kleine Unternehmen sehr wichtig, die sich hierfür mit ihrem Finanzamt in Verbindung setzen sollten.\n\nInsgesamt wird Unternehmen die Möglichkeit von Steuerstundungen in Milliardenhöhe gewährt. Die hierfür erforderliche Abstimmung mit den Ländern darüber hat das Bundesministerium der Finanzen eingeleitet. Die Finanzbehörden können Steuern stunden, wenn die Einziehung eine erhebliche Härte darstellen würde. Die Finanzverwaltung wird angewiesen, dabei keine strengen Anforderungen zu stellen. Damit wird die Liquidität der Steuerpflichtigen unterstützt, indem der Zeitpunkt der Steuerzahlung hinausgeschoben wird. \n\nStundung bedeutet die Verschiebung der Fälligkeit eines Steueranspruches in die Zukunft.\n\nDas Bayerische Finanzministerium schreibt: Die vereinfachte Stundungsregelung gilt nur für Einkommensteuer, Körperschaftsteuer und Umsatzsteuer. Steuerabzugsbeträge im Sinne des § 222 Satz 3 und 4 (Lohnsteuer und Kapitalertragsteuer) können nicht gestundet werden. Für Steuerabzugsbeträge besteht die Möglichkeit, einen Antrag auf Vollstreckungsaufschub bei Ihrem zuständigen Finanzamt einzureichen."
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Antragsformular",
+          "imageUrl": "https://storage.googleapis.com/media-intent-management-system/1584703228738Rathaus.jpeg",
+          "buttons": [
+            {
+              "text": "Zum Antragsformular",
+              "postback": "https://www.stmfh.bayern.de/service/finanzielle_hilfen/corona_2020/"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Ähnliche Themen:",
+          "replies": [
+            "Förderung",
+            "Soforthilfe"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

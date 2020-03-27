@@ -1,0 +1,32 @@
+{
+  "id": "3bb803cd-1e58-4a2c-a99d-038b9b81364b",
+  "name": "Zentrum_Telemedizin_Unterstützung",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Das Zentrum für Telemedizin Bad Kissingen bietet nun Beratung im Aufbau von telemedizinischen Systemen und Videokommunikation an, damit Behandlungen auch ohne direkten Kontakt stattfinden können. So werden medizinisches Fachpersonal und Patienten vor der Infektion geschützt. Das Angebot richtet sich an Arztpraxen, Kliniken und andere Einrichtungen, die aktuell mit Risikogruppen arbeiten und Infektionsschutz betreiben müssen.\n\nWie Sie das Angebot wahrnehmen können, erfahren Sie unter: https://www.ztm.de/…/gesund-bleiben-dank-virtuellem-arbeiten"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

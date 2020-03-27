@@ -1,0 +1,56 @@
+{
+  "id": "08940f8c-83a6-426b-8e11-d2dc7f002a20",
+  "name": "Volkshochschule",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Die Volkshochschule (vhs) Würzburg \u0026 Umgebung hat leider bis mindestens zum 19.04.2020 geschlossen und bietet keine Präsenzkurse an. Allerdings gibt es ab dem 23.03. ein kostenfreies Online-Kursprogramm mit tollen Referenten unter dem Titel \"vhs.daheim\". Informiere Dich unter dem folgenden Link:"
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "VHS Homepage WUE",
+          "imageUrl": "https://www.wuerzburg24.com/wp-content/uploads/2015/01/logo_vhs-683x380.jpg",
+          "buttons": [
+            {
+              "text": "Zur Webseite:",
+              "postback": "https://www.vhs-wuerzburg.info/"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Ähnliches Thema:",
+          "replies": [
+            "Freizeit"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

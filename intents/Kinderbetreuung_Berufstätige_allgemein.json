@@ -1,0 +1,82 @@
+{
+  "id": "a26b27cb-7d6c-487a-bb6c-45ecbb981f8f",
+  "name": "Kinderbetreuung_Berufstätige_allgemein",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Kitas und Schulen sind bis nach den Osterferien geschlossen. Grundsätzlich muss mit dem Arbeitgeber besprochen werden, wie eine notwendige Kinderbetreuung geregelt werden kann. Nach geltendem Recht dürfen Arbeitnehmer unter gewissen Voraussetzungen zu Hause bleiben. Wenn bei Schließung der Kita/Schule die Betreuung eines Kindes, das aufgrund seines Alters betreut werden muss, nicht anders sichergestellt werden kann, dann haben die Eltern in der Regel ein Leistungsverweigerungsrecht, weil ihnen die Erbringung ihrer Arbeitsleistung unzumutbar ist (§ 275 Abs. 3 BGB). Voraussetzung hierfür ist es, dass eine Betreuung nicht anderweitig möglich ist. Dies ist zu prüfen."
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Zur Kinderbetreuung von Berufstätigen während der Corona-Krise haben das Bayerische Familienministerium und das Bundesministerium für Arbeit und Soziales Informationen zusammengestellt:"
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Bay. Familienministerium",
+          "subtitle": "Kinderbetreuung",
+          "imageUrl": "https://www.stmas.bayern.de/imperia/md/images/stmas/stmas_inet/system/logo-stmas.png",
+          "buttons": [
+            {
+              "text": "Zu den Infos:",
+              "postback": "https://www.stmas.bayern.de/aktuelle-meldungen/pm2003-076.php"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Bundesarbeitsministerium",
+          "imageUrl": "https://storage.googleapis.com/media-intent-management-system/1584699209637Rathaus.jpeg",
+          "buttons": [
+            {
+              "text": "Zur Webseite",
+              "postback": "https://www.bmas.de/DE/Presse/Meldungen/2020/corona-virus-arbeitsrechtliche-auswirkungen.html"
+            },
+            {
+              "text": "",
+              "postback": "Quelle: https://www.stmas.bayern.de/coronavirus-info"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Weitere hilfreiche Informationen:",
+          "replies": [
+            "Notbetreuung_Kinder"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

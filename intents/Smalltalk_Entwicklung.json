@@ -1,0 +1,32 @@
+{
+  "id": "00a92440-14b3-4c70-9c87-0aee39c1497b",
+  "name": "Smalltalk_Entwicklung",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Dies ist ein Projekt der Stadt Würzburg, IHK Würzburg und der Region Mainfranken GmbH. Die Realisierung erfolgt durch die BOTfriends GmbH, ein Startup spezialisiert auf Conversational AI."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

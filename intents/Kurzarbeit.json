@@ -1,0 +1,67 @@
+{
+  "id": "4371996b-9c86-44fe-b1a0-1436885e0e62",
+  "name": "Kurzarbeit",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Der Gesetzgeber hat Erleichterungen für das Kurzarbeitergeld beschlossen. Diese Erleichterungen werden rückwirkend zum 01. März 2020 in Kraft treten und rückwirkend ausgezahlt.   "
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "\nAuf der Seite der Agentur für Arbeit erhalten Sie alle Infos, wenn Sie sich über Kurzarbeitergeld informieren möchten, Kurzarbeit anzeigen oder beantragen wollen. Die hier eingestellten Informationen gelten sowohl, wenn Ihnen Arbeitsausfälle durch das Corona-Virus oder auch andere konjunkturellen Ursachen entstehen. Diese Seite lotst Sie durch alle Fragen. Informationen erhalten betroffene Betriebe auch über folgende Arbeitgeber-Hotline der Bundesagentur für Arbeit: 0800 45555 20 (Montag - Freitag: 8.00 Uhr - 18.00 Uhr, Anrufe werden jeweils an die regional zuständigen Agenturen geroutet)"
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Mehre Informationen dazu",
+          "imageUrl": "https://storage.googleapis.com/media-intent-management-system/1584641596899Kurzarbeit.jpg",
+          "buttons": [
+            {
+              "text": "Info Arbeitsagentur",
+              "postback": "https://www.arbeitsagentur.de/news/corona-virus-informationen-fuer-unternehmen-zum-kurzarbeitergeld"
+            },
+            {
+              "text": "Info BMAS",
+              "postback": "https://www.bmas.de/SharedDocs/Downloads/DE/kug-faq-kurzarbeit-und-qualifizierung.pdf?__blob\u003dpublicationFile\u0026v\u003d8"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Ähnliche Themen:",
+          "replies": [
+            "Förderung von Banken"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

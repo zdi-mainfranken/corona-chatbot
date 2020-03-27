@@ -1,0 +1,134 @@
+[
+  {
+    "id": "55e786b0-6ea4-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Dürfen Ausbilder freigestellt werden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "55e786b1-6ea4-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Dürfen Auszubildende freigestellt werden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "55e786b2-6ea4-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Gibt es Zwangsurlaub?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "55e786b3-6ea4-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Kann der Auszubildende in Urlaub geschickt werden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "55e786b4-6ea4-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Kann für den Ausbilder Kurzarbeit beantragt werden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "55e786b5-6ea4-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Kann für Auszubildende Kurzarbeit beantragt werden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "55e786b6-6ea4-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Gibt es Kurzarbeit für Auszubildende?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "55e786b7-6ea4-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Darf ich von der Ausbildung fern bleiben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "55e786b8-6ea4-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Finde Kurse zur überbetrieblichen Ausbildung statt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "55e786b9-6ea4-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Finden die ÜLU Kurse statt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "55e786ba-6ea4-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Muss ich arbeiten wenn die Berufsschule ausfällt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,46 @@
+{
+  "id": "93369b0c-4cec-4c2d-ae1b-9311d50e6749",
+  "name": "Soforthilfeprogramm_Beantragung_Regierung",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Die Bearbeitung der Anträge für das Soforthilfeprogramm des Bayerischen Wirtschaftsministeriums erfolgt durch die für den Antragsteller örtlich zuständige Vollzugsbehörde. In diesem Fall wenden Sie sich also an die Regierung von Unterfranken. Es wird dringend gebeten, keine Förderanträge an das Bayerische Staatsministerium für Wirtschaft, Landesentwicklung und Energie zu schicken bzw. zu mailen.\n\nFür alle Landkreise und Städte in Unterfranken ist die Regierung von Unterfranken zuständig."
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Informationsmaterial",
+          "imageUrl": "https://storage.googleapis.com/media-intent-management-system/1584643439215Sofortma%C3%9Fnahmen.jpg",
+          "buttons": [
+            {
+              "text": "Zur Webseite",
+              "postback": "https://www.regierung.unterfranken.bayern.de/aufgaben/3/1/04532/index.html"
+            }
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

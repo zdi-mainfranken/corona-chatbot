@@ -1,0 +1,410 @@
+[
+  {
+    "id": "c0301620-6e74-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Reicht eine mündliche Erklärung, dass ich beruflich unterwegs bin?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c0301621-6e74-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Muss ich ein Dokument vorzeigen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c0301622-6e74-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Polizeikontrolle",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c0301623-6e74-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "polizeiliche Kontrolle",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c0301624-6e74-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Muss ich einen Nachweis für den Grund meines Ausgangs erbringen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c0301625-6e74-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Kann mich die Polizei nach Beweisen fragen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c0301626-6e74-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Ist es zwingend notwendig einen Dienstausweis oder Beschäftigtenschein mitzuführen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c0301627-6e74-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Muss ich der Polizei beweisen, warum ich draußen bin?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c0301628-6e74-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Muss ich einen Beleg für meine Dienstfahrt dabei haben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c0301629-6e74-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Darf mich die Polizei befragen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c030162a-6e74-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Muss ich der Polizei sagen warum ich draußen war?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c030162b-6e74-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Muss ich die Gründe für meinen Spaziergang erläutern?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c030162c-6e74-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Muss ich mich vor der Polizei rechtfertigen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c030162d-6e74-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Ich will rausgehen. Wann ist das möglich?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c030162e-6e74-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Welche Regelungen sind für Ausgänge getroffen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c030162f-6e74-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Welche Ausnahmen sind für das Kontaktverbot zulässig?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c0301630-6e74-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wer erklärt mir wann ich was machen darf?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c0301631-6e74-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Darf ich ausnahmsweise doch rausgehen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c0301632-6e74-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Welche Ausnahmen gibt es für die Ausgangsbeschränkung?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c0301633-6e74-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wo kann ich die Ausnahmen für das Ausgangsverbot nachlesen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c0301634-6e74-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wann darf ich offiziell das Ausgangsverbot umgehen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c0301635-6e74-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Für welche Situationen gilt die Ausgangsbeschränkung nicht?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c0301636-6e74-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Was ist ein gültiger und relevanter Grund um das Haus zu verlassen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c0301637-6e74-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Welche Motive darf ich anführen um nach draußen zu gehen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c0301638-6e74-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Was kann ich sagen wenn mich die Polizei fragt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c0301639-6e74-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Was ist mit triftigen Gründen gemeint?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c030163a-6e74-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wann darf ich die Ausgangsbeschränkung umgehen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c030163b-6e74-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Unter welchen Umständen darf ich spazieren gehen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c030163c-6e74-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Welche Gründe gibt es um draußen rumzulaufen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c030163d-6e74-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wofür darf ich noch rausgehen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c030163e-6e74-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wird es geahndet, wenn ich ohne triftigen Grund vor die Tür gehe?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c030163f-6e74-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Triftiger Grund",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c0301640-6e74-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Muss ich immer noch ins Büro gehen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c0301641-6e74-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Darf ich mit Freunden spazieren gehen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

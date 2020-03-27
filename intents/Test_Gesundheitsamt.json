@@ -1,0 +1,50 @@
+{
+  "id": "2798ca32-a518-4d56-85e9-c391443862fd",
+  "name": "Test_Gesundheitsamt",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Das Gesundheitsamt führt keine Testungen durch! "
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Die Kassenärztliche Vereinigung Bayern (KVB) führt bei indizierten Fällen Testungen durch. Näheres erfahren Sie unter der Rufnummer MXXX. Weitere Optionen sind gegenwärtig in Planung.\n"
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Genaueres unter:",
+          "replies": [
+            "Test_Ort",
+            "Test_Ablauf"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

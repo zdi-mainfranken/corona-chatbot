@@ -1,0 +1,386 @@
+[
+  {
+    "id": "209a39c0-6e87-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Ich fühle mich eingesperrt und hilflos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "209a39c1-6e87-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Ich bin solo und völlig allein in meiner Wohnung.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "209a39c2-6e87-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Ohne Familienangehörige",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "209a39c3-6e87-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Gibt es einen Callcenter für Alleinstehende?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "209a39c4-6e87-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wen darf ich gegen die Einsamkeit kontaktieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "209a39c5-6e87-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wo finde ich ein nettes Gespräch?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "209a39c6-6e87-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Ich suche eine nette Unterhaltung weil ich alleine bin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "209a39c7-6e87-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Ich brauche jemanden zum quatschen.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "209a39c8-6e87-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Ich kann keine Person mehr treffen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "209a39c9-6e87-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Niemand interessiert sich mehr für mich",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "209a39ca-6e87-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Ich fühle mich total isoliert und abgeschottet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "209a39cb-6e87-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Telefonangebot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "209a39cc-6e87-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Redeangebot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "209a39cd-6e87-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Gesprächsangebot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "209a39ce-6e87-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Woher bekomme ich jetzt freundliche Gespräche?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "209a39cf-6e87-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "mir fehlt der soziale Kontakt total",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "209a39d0-6e87-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Ich habe keinen sozialen Kontakt mehr",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "209a39d1-6e87-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wer spricht mit mir, wenn ich einsam bin?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "209a39d2-6e87-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Ich wohne alleine und kann mit niemandem sprechen.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "209a39d3-6e87-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Ich bin single und habe niemanden zum reden",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "209a39d4-6e87-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Gibt es eine Hotline gegen das Alleinesein?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "209a39d5-6e87-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Gibt es Telefonnummern gegen die Einsamkeit?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "209a39d6-6e87-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Was tun, wenn man die Einsamkeit nicht mehr aushält?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "209a39d7-6e87-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Was mache ich, wenn ich mich alleine fühle?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "209a39d8-6e87-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Ich fühle mich niedergeschlagen und depressiv, weil ich alleine bin.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "209a39d9-6e87-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Jetzt muss ich dauernd alleine sein. Das ist traurig.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "209a39da-6e87-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wer hilft mir mit der Einsamkeit?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "209a39db-6e87-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wohin kann ich mich wenden, wenn ich mich einsam fühle?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "209a39dc-6e87-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Einsamkeit und Alleinsein",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "209a87e0-6e87-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Ich fühle mich aufgrund der Ausgangsbeschränkung alleine.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "209a87e1-6e87-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Aber ich bin ja einsam",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "209a87e2-6e87-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wie können Sich einsame Menschen weiterhelfen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

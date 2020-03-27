@@ -1,0 +1,74 @@
+[
+  {
+    "id": "be722b30-6e00-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Abstand halten",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "be722b31-6e00-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Hände waschen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "be722b32-6e00-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Warteschlange im Supermarkt",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "be722b33-6e00-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Was muss ich beim Tanken beachten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "be722b34-6e00-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Hygiene",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "be722b35-6e00-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Hilft Desinfektionsmittel gegen Corona?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

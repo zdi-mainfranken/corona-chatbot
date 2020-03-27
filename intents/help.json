@@ -1,0 +1,49 @@
+{
+  "id": "ee15e3f4-1e47-4a92-a2d2-d0e6d6646c8c",
+  "name": "help",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Ich bin ein Bot, kein Mediziner. Jura hab ich auch nicht studiert. Mein Vorteil: Ich schlafe nie! Und ich lerne jeden Tag dazu, auch weil Du mir Fragen stellst. Du bist einfach super!"
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Probier mal",
+          "replies": [
+            "Firmen Soforthilfe",
+            "Gesundheitsamt",
+            "Telefon",
+            "Hat der DM offen?",
+            "Krankenhaus",
+            "Abitur",
+            "Prüfungen",
+            "Soforthilfe Banken"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

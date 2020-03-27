@@ -1,0 +1,44 @@
+{
+  "id": "1fd535ba-d352-4404-b738-4c91df04e500",
+  "name": "Parallele Förderung Bund+Bayern",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Den Unternehmern und Selbstständigen, die bereits die bayerische Soforthilfe beantragt haben, sollen die Bundeshilfen bis zur entsprechenden Höhe des Bundesprogramms aufgestockt werden. Die bayerische Staatsregierung arbeitet aktuell mit Hochdruck daran, die Modalitäten mit der Bundesregierung abzustimmen. Mittlere Unternehmen ab 11 bis 250 Beschäftigten sind im bundesweiten Programm nicht berücksichtigt. Ihnen steht weiterhin die bayerische Soforthilfe mit bis zu 30.000 Euro zur Verfügung. (Stand: 24.03.2020) Weitere Infos erhältst Du bei der Regierung von Unterfranken, Sachgebiet Wirtschaftsförderung: WXXX"
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Siehe auch:",
+          "replies": [
+            "Bundeshilfen",
+            "Firmen Soforthilfe",
+            "Förderung Banken"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

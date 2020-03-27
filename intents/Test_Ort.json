@@ -1,0 +1,32 @@
+{
+  "id": "92697837-6b1f-4f24-ba0b-bbd5c1e0fe71",
+  "name": "Test_Ort",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Die KVB führt bei infizierten Fällen Testungen durch. Näheres erfahren Sie unter der Rufnummer MXXX. Weitere Optionen sind gegenwärtig in Planung. \n1. Positive Testergebnisse der KVB werden ausschließlich den örtlich zuständigen Gesundheitsämtern mitgeteilt.\n2. Negative Testergebnisse der KVB teilt die KVB grundsätzlich den betroffenen Personen selbst mit. Wer von der KVB getestet wurde, kann das negative Testergebnis über die eingerichtete Hotline 089-570934830 abfragen.\n3. Zwischen Abstrich und Testergebnis können durchaus 4 Tage liegen."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "2e6a66a0-6e9c-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "wo bekomme ich eine krankschreibung?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2e6a66a1-6e9c-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "wie bekomme ich einen Hausarzt in Würzburg",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2e6a66a2-6e9c-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "ich habe keinen Hausarzt",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

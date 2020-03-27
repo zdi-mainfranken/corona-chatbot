@@ -1,0 +1,56 @@
+{
+  "id": "09a32f0c-e983-49ce-8d96-6780d84cab30",
+  "name": "Dienstreisen",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "554b5379-6d07-11ea-9dd8-09af29682fe5",
+          "required": false,
+          "dataType": "@sys.geo-state",
+          "name": "geo-state",
+          "value": "$geo-state",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Grundsätzlich sind Arbeitnehmer verpflichtet, die arbeitsvertraglich geschuldeten Arbeitsleistungen, wozu auch Dienstreisen und dienstliche Veranstaltungen zählen, zu erbringen. Allerdings kann ein Leistungsverweigerungsrecht bestehen, wenn dem Arbeitnehmer die Erbringung seiner Arbeitsleistung unzumutbar ist (§ 275 Abs. 3 BGB).  Die bloße Befürchtung, man könne sich mit dem Coronavirus infizieren, dürfte ohne weitere objektiv begründete Anhaltspunkte jedoch nicht ausreichen, um die Teilnahme an einer Dienstreise zu verweigern."
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Ähnliche Themen:",
+          "replies": [
+            "Grenzkontrollen",
+            "Arbeitnehmerrechte"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

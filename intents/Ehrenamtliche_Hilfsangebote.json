@@ -1,0 +1,57 @@
+{
+  "id": "b4e307e5-e005-41bc-bfac-be8f8bc22ec1",
+  "name": "Ehrenamtliche_Hilfsangebote",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Bei der Freiwilligen Agentur Würzburg kannst Du Dich für ehrenamtliche Hilfsangebote registrieren. Grundsätzlich solltest Du Dich bei der Ausübung Deines Ehrenamts an aktuelle Handlungsempfehlungen halten. Auch diese findest Du im untenstehenden Link:"
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Mehr Informationen",
+          "imageUrl": "https://storage.googleapis.com/media-intent-management-system/1584722105927freiwilligenagentur.png",
+          "buttons": [
+            {
+              "text": "Zur Webseite",
+              "postback": "https://www.freiwilligenagentur-wuerzburg.de/freiwilligenagentur/aktuelles/525717.Registrierung-von-Hilfsangeboten---Corona.html"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Siehe auch folgende Infos:",
+          "replies": [
+            "Ehrenamt_Pflege",
+            "Sozialeinrichtung"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "9506a500-6e6e-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "wer hat dich gemacht",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9506a501-6e6e-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "wer hat dich konzipiert?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9506a502-6e6e-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "wer hat dich programmiert",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9506a503-6e6e-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wer hat dich erschaffen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9506a504-6e6e-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wer hat dich entwickelt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9506a505-6e6e-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Botfriends",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9506a506-6e6e-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wer hat dich gebaut?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9506a507-6e6e-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wer hat euch gebaut?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9506a508-6e6e-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wer hat den Bot geschrieben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

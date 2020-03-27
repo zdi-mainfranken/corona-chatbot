@@ -1,0 +1,32 @@
+{
+  "id": "61445436-2c31-4fbd-b264-010fe8a66e8c",
+  "name": "Besuch Krankenhaus",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Wenn Du dringend ärztliche Hilfe brauchst, kannst Du ins Krankenhaus. Auch der Besuch enger Familienangehöriger auf der Geburts- und Kinderstation, Palliativstationen sowie Hospize ist erlaubt . Generell solltest Du auf die Minimierung Deiner sozialen Kontakte achten. (20.3.2020)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

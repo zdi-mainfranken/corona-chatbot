@@ -1,0 +1,43 @@
+{
+  "id": "1cd8d8d9-9a62-4521-baf6-6b72926425d6",
+  "name": "sicherheit",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "(20.3.2020) Die Einhaltung der Ausgangsbeschränkung, die ab dem 21.3. gilt, wird von der Polizei überwacht. Die Bundeswehr wird nicht für die Kontrolle eingesetzt."
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Fragen die hierzu passen:",
+          "replies": [
+            "Ausgangsbeschränkung",
+            "Zuwiderhandlung"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

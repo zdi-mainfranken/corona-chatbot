@@ -1,0 +1,32 @@
+{
+  "id": "ba6881df-0d44-4ccb-8f0c-98b7515b5a3b",
+  "name": "Stichwahl 29.03.",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Die geltende Allgemeinverfügung des Bayerischen Staatsministeriums für Gesundheit und Pflege vom 19.03.2020 untersagt die Nutzung der Abstimmungsräume zur Stimmabgabe am 29.03.2020 für die Stichwahlen (Gemeinde-/Landkreiswahlen). Es muss per Briefwahl gewählt werden. Die Unterlagen sollen ohne vorherigen Antrag an alle wahlberechtigten Bürgerinnen und Bürger versandt \nwerden und werden von diesen ausgefüllt zurückgeschickt."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

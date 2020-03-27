@@ -1,0 +1,312 @@
+[
+  {
+    "id": "554b5360-6d07-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "ich muss beruflich nach ",
+        "userDefined": false
+      },
+      {
+        "text": "schweden",
+        "alias": "geo-state",
+        "meta": "@sys.geo-state",
+        "userDefined": false
+      },
+      {
+        "text": " fliegen.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "554b5361-6d07-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "muss ich dienstreisen wegen corona virus absagen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "554b5362-6d07-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "für ein projekt bei der arbeit muss ich verreisen, darf ich das?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "554b5363-6d07-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "wie ist die aktuelle rechtslage zu dienstreisen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "554b5364-6d07-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "mein arbeitgeber will dass ich noch dienstlich verreise, was soll ich tun",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "554b5365-6d07-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "ich will nicht dienstlich verreisen, was soll ich machen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "554b5366-6d07-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Ich will keine geschäftsreise machen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "554b5367-6d07-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "darf ich eine geschäftsreise verweigern?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "554b5368-6d07-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "darf ich mich einer dienstreise verweigern?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "554b5369-6d07-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "eine dienstreise in die USA steht kann, kann ich davon abtreten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "554b536a-6d07-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "was soll ich machen wenn ich beruflich bedingt verreichen muss?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "554b536b-6d07-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "ich muss geschäftliche verreisen, darf ich das noch?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "554b536c-6d07-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "was ist der aktuelle stand zu dienstreisen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "554b536d-6d07-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "eine dienstreise steht an, muss ich sie absagen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "554b536e-6d07-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Es werden immer noch Dienstreisen angeordnet - geht das?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "554b536f-6d07-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Bin ich verpflichtet Dienstreisen durchzuführen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "554b5370-6d07-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Gibt es einige generelle Regelungen für Dienstreisen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "554b5371-6d07-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Kann mich meine Firma zu Dienstreisen zwingen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "554b5372-6d07-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Unter welchen Gründen kann ich eine Dienstreise verweigern?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "554b5373-6d07-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Darf ich Dienstreisen verweigern?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "554b5374-6d07-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Welche Rechte habe ich mich gegen Dienstreisen zu wehren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "554b5375-6d07-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Mus sich Dienstreisen antreten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "554b5376-6d07-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Darf mich mein Chef auf Dienstreise schicken?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "554b5377-6d07-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "kann ich dienstreisen machen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "554b5378-6d07-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Dienstreisen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

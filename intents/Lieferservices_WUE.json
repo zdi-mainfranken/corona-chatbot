@@ -1,0 +1,77 @@
+{
+  "id": "582444a5-910a-4a15-b7c7-f862bf6e9237",
+  "name": "Lieferservices_WUE",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Viele Cafes und Restaurants in Würzburg stellen auf Take Away und Lieferservices um. In manchen Stadtgebieten liefern sie das Essen vor die Haustüre oder bieten es zur Mitnahme an. Möchtest Du den Würzburger Einzelhandel unterstützen und hast Lust auf einen kulinarischen Ausflug? Auf der Webseite von \"Würzburg macht Spaß\" findest Du eine Liste mit Angeboten:"
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Lieferservices Food WUE",
+          "imageUrl": "https://images.pexels.com/photos/262978/pexels-photo-262978.jpeg?auto\u003dcompress\u0026cs\u003dtinysrgb\u0026dpr\u003d2\u0026h\u003d750\u0026w\u003d1260",
+          "buttons": [
+            {
+              "text": "Zur Webseite:",
+              "postback": "https://www.wuerzburgmachtspass.de/"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "In Stadt und Landkreis Schweinfurt gibt es ein ähnliches Angebot:"
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Lieferservices Food SW",
+          "imageUrl": "https://images.pexels.com/photos/262978/pexels-photo-262978.jpeg?auto\u003dcompress\u0026cs\u003dtinysrgb\u0026dpr\u003d2\u0026h\u003d750\u0026w\u003d1260",
+          "buttons": [
+            {
+              "text": "Zur Webseite:",
+              "postback": "https://www.gastro-schweinfurt.de/?fbclid\u003dIwAR2Jeo2fuc98vXUMbVA8V5p2cLJehYFSlLY5di_GeQWAZuii7Gcc7m3KIQA"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Siehe auch:",
+          "replies": [
+            "Freizeit"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

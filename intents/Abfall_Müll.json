@@ -1,0 +1,53 @@
+{
+  "id": "7f39d3b2-020b-4432-8574-298a943249f4",
+  "name": "Abfall_Müll",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Stadt: Restmülltonne und Gelber Sack werden geholt, Bürger sollen den Biomüll bitte in den Restmüll tun. \nLandkreis: Restmüll, Gelber Sack  und Biomüll werden geholt, Papiertonne nicht. \n\nWertstoffhöfe sind geschlossen.\nDie Mobile Müllentsorgung arbeitet derzeit nicht."
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Links zum Thema Müll",
+          "imageUrl": "https://www.team-orange.info/__/img/icon_AppTO.jpg",
+          "buttons": [
+            {
+              "text": "Stadt",
+              "postback": "https://www.wuerzburg.de/buerger/buergerbuero/service/525715.Die-Stadtreiniger-informieren-ueber-Aenderungen-Restmuelltonnen-werden-weiter-nach-Plan-geleert.html"
+            },
+            {
+              "text": "Landkreis",
+              "postback": "https://www.team-orange.info/aktuelles/1937.Starke-Einschraenkungen-bei-der-Abfallentsorgung.html#ref\u003drss"
+            },
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

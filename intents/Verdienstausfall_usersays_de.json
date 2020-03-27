@@ -1,0 +1,242 @@
+[
+  {
+    "id": "84300050-6d24-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Lohnausfall wegen Arbeitsverbot.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "84302760-6d24-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Wer zahlt mir eine Vergütung für entgangenen Lohn?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "84302761-6d24-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Wie kann man Entschädigungsgelder beantragen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "84302762-6d24-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Ich bekomme kein Gehalt mehr und brauche finanzielle Hilfe.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "84302763-6d24-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Wie kann ich Entschädigungszahlungen für Verdienstausfall einfordern?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "84302764-6d24-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Ich leide unter Verdienstausfall.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "84302765-6d24-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Welche Möglichkeiten der Entschädigung haben Kantinenmitarbeiter?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "84302766-6d24-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Bin in Versorgungseinrichtung angestellt und darf nicht mehr arbeiten.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "84302767-6d24-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Als Arbeitnehmer im Gastgewerbe darf ich nicht mehr tätig sein. Welche Optionen habe ich?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "84302768-6d24-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Zahlt mir der Staat meinen Lohnausfall zurück?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "84302769-6d24-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Welche Entschädigungsmöglichkeiten gibt es?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8430276a-6d24-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Wie kann ich meinen Verdienstausfall im Hotelgewerbe kompensieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8430276b-6d24-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Ich darf meinen Beruf nicht mehr ausüben und will entschädigt werden.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8430276c-6d24-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Entschädigung für entgangenen Lohn beantragen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8430276d-6d24-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Verdienstausfallentschädigung beantragen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8430276e-6d24-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Meine Tätigkeit in der Küche wird verboten. Wie kann ich mich wehren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8430276f-6d24-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Wegen der Infektionsgefahr darf ich nicht mehr im Gastgewerbe arbeiten.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "84302770-6d24-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Ich bin Koch und darf nicht mehr arbeiten.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "84302771-6d24-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "Mir wurde ein Tätigkeitsverbot ausgesprochen. Was nun?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "84302772-6d24-11ea-9dd8-09af29682fe5",
+    "data": [
+      {
+        "text": "wo bekomme ich Verdienstausfall erstattet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

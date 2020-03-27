@@ -1,0 +1,47 @@
+{
+  "id": "8f7b72c1-00b8-4803-b062-2d5a75861b6f",
+  "name": "Zuwiderhandlung",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Wer Veranstaltungs- und Versammlungsverbote sowie Betriebsuntersagungen gemäß der Allgemeinverfügung vom 20. März nicht beachtet (Ziffern 1 bis 4), macht sich strafbar. Darauf weist der Passus Zuwiderhandlung in Ziffer 6 und 7 ausdrücklich hin. Ein Verstoß kann als Ordnungswidrigkeit geahndet werden und zum Beispiel mit einer Geldstrafe, in seltenen Fällen mit einer Bewährungs- oder Haftstrafe enden."
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Allgemeinverfügung 20. März",
+          "subtitle": "Offizielle Regelung",
+          "imageUrl": "https://images.pexels.com/photos/3951602/pexels-photo-3951602.jpeg?auto\u003dcompress\u0026cs\u003dtinysrgb\u0026dpr\u003d2\u0026h\u003d750\u0026w\u003d1260",
+          "buttons": [
+            {
+              "text": "Zu genaueren Infos:",
+              "postback": "https://www.bayern.de/wp-content/uploads/2020/03/20-03-20-ausgangsbeschraenkung-bayern-.pdf"
+            }
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

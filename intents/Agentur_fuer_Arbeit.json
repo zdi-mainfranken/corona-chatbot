@@ -1,0 +1,42 @@
+{
+  "id": "27e37519-289a-48f9-bb5f-4d408eea39aa",
+  "name": "Agentur_fuer_Arbeit",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Die Agentur für Arbeit ist aktuell geschlossen. Man kann die Behörde telefonisch erreichen, jedoch ist das Anrufaufkommen sehr hoch. Darum bitte nur in Notfällen anrufen.  Die Agentur für Arbeit Würzburg, Kitzingen und Lohr ist unter der zusätzlichen Hotline-Nummer WXXX erreichbar. "
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Ähnliche Themen:",
+          "replies": [
+            "Kurzarbeit"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

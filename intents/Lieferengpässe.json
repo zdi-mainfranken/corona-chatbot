@@ -1,0 +1,32 @@
+{
+  "id": "12063f9e-2af6-4b9b-b2c6-920459db8085",
+  "name": "Lieferengpässe",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Die Versorgung der Bevölkerung mit Waren des täglichen Bedarfs gilt als sicher. Hamsterkäufe sind nicht notwendig und auch Klopapier wird so gut wie möglich nachgeliefert. "
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,42 @@
+{
+  "id": "edbfbcba-e39c-4d30-9505-3bb0c0ef91b5",
+  "name": "spenden",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Helfen \u0026 Spenden",
+          "imageUrl": "https://picsum.photos/id/1000/200/300",
+          "buttons": [
+            {
+              "text": "Bahnhofsmission",
+              "postback": "https://www.bahnhofsmission-wuerzburg.de/ueber-den-verein-2/spenden/"
+            },
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

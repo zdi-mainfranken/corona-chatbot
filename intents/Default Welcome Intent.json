@@ -1,0 +1,51 @@
+{
+  "id": "f62c6f9c-dd6b-4670-96d6-e0d5a04a3aa1",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Hallo, ich möchte Dir die häufig gestellten Fragen zu Corona und den Auswirkungen auf unsere Region beantworten. Am besten verstehe ich kurze und eindeutige Fragen. Meine Programmierer bemühen sich, immer den aktuellen Stand an Infos zu hinterlegen. Aber: Meine Antworten gelten ohne Gewähr. Und falls ich mal nicht weiterhelfen kann: Jede Frage hilft mir weiter und im Hintergrund verbessert sich mein System. Vielleicht kenne ich die Antwort dann schon morgen."
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Was willst Du wissen?",
+          "replies": [
+            "Allgemeine Infos",
+            "Symptome \u0026 Anzeichen",
+            "Risikogebiete",
+            "Ausgangsbeschränkung",
+            "Firmen Soforthilfe"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

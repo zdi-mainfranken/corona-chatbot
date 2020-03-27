@@ -1,0 +1,326 @@
+[
+  {
+    "id": "37ba8ca0-6e90-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Haben manche Gastwirtschaften offen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "37ba8ca1-6e90-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Ich will in einem Restaurant essen gehen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "37ba8ca2-6e90-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Ich möchte irgendwo essen gehen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "37ba8ca3-6e90-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Abholmöglichkeiten für Speisen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "37bab3b0-6e90-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Essen zum Abholen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "37bab3b1-6e90-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Drive in",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "37bab3b2-6e90-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Takeaway",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "37bab3b3-6e90-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Rabattaktionen von Restaurants",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "37bab3b4-6e90-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Essensmitnahme",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "37bab3b5-6e90-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Kann ich eine Speise zum Mitnehmen bestellen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "37bab3b6-6e90-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Liefert die Gastronomie jetzt ihre Gerichte aus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "37bab3b7-6e90-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Auslieferung von Speisen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "37bab3b8-6e90-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Gibt es Gaststätten, die Speisen ausliefern?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "37bab3b9-6e90-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Werden Speisen jetzt von Restaurants nach Hause gebracht?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "37bab3ba-6e90-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Hat der Einzelhandel in Würzburg neue Liefermöglichkeiten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "37bab3bb-6e90-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Haben sich neue Lieferservices etabliert?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "37bab3bc-6e90-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wo wird Essen geliefert?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "37bab3bd-6e90-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Welche Bars und Restaurants bedienen mich zuhause?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "37bab3be-6e90-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Gibt es Mitnahmeangebote von Lokalen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "37bab3bf-6e90-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Welche Cafes und Lokale bieten Essen zur Mitnahme an?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "37bab3c0-6e90-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Welche Restaurants bieten Lieferservice an?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "37bab3c1-6e90-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Kann ich noch irgendwo essen gehen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "37bab3c2-6e90-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Kann ich mir Essen liefern lassen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "37bab3c3-6e90-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Welches Restaurant liefert seine Speisen aus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "37bab3c4-6e90-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Ist es möglich Seisen online zu bestellen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "37bab3c5-6e90-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Darf ich mir Essen bei einem Restaurant abholen gehen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "37bab3c6-6e90-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "wer liefert essen in Würzburg?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

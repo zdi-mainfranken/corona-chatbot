@@ -1,0 +1,65 @@
+{
+  "id": "bde387a8-732d-4211-b253-16c49accca1a",
+  "name": "Kleinunternehmen",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Vom Bundeskabinett wurden am 23.03.2020 umfassende zusätzliche Maßnahmen mit Soforthilfen von bis zu 50 Milliarden Euro für kleine Unternehmen, Solo-Selbständige und Angehörige der Freien Berufe vorgelegt. Finanzielle Soforthilfen (Zuschüsse) für kleine Unternehmen gelten für alle Wirtschaftsbereiche sowie Solo-Selbständige und Angehörige der Freien Berufe bis zu 10 Beschäftigten. Im Einzelnen ist vorgesehen: bis 9000 € Einmalzahlung für 3 Monate bei bis zu 5 Beschäftigten. Bis 15.000 € Einmalzahlung für 3 Monate bei bis zu 10 Beschäftigten.\n"
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Mehr über die im Kabinett beschlossenen Eckpunkte finden Sie im untenstehenden PDF-Link:"
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "BMWI Soforthilfen 23.03.",
+          "imageUrl": "https://www.bmwi.de/SiteGlobals/BMWI/StyleBundles/Bilder/bmwi_logo_de.svgz?__blob\u003dnormal\u0026v\u003d11",
+          "buttons": [
+            {
+              "text": "Zum PDF-Dokument",
+              "postback": "https://www.bmwi.de/Redaktion/DE/Downloads/E/eckpunkte-corona-soforthilfe.pdf?__blob\u003dpublicationFile\u0026v\u003d4"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Ähnliche Anfragen:",
+          "replies": [
+            "Bundeshilfen",
+            "Finanz. Förderung",
+            "Soforthilfe"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

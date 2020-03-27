@@ -1,0 +1,74 @@
+[
+  {
+    "id": "fb1390e0-6c6d-11ea-aa9b-d5c84b27c54f",
+    "data": [
+      {
+        "text": "ich möchte spenden, wo kann ich das tun?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fb13b7f0-6c6d-11ea-aa9b-d5c84b27c54f",
+    "data": [
+      {
+        "text": "kann ich mit einer spende helfen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fb13b7f1-6c6d-11ea-aa9b-d5c84b27c54f",
+    "data": [
+      {
+        "text": "wem kann man geld spenden",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fb13b7f2-6c6d-11ea-aa9b-d5c84b27c54f",
+    "data": [
+      {
+        "text": "Wo kann man spenden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fb13b7f3-6c6d-11ea-aa9b-d5c84b27c54f",
+    "data": [
+      {
+        "text": "Wo kann ich Geld spenden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fb13b7f4-6c6d-11ea-aa9b-d5c84b27c54f",
+    "data": [
+      {
+        "text": "Wo kann ich spenden",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

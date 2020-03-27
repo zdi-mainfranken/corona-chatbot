@@ -1,0 +1,51 @@
+{
+  "id": "eeb39baf-c9e6-41c7-ad27-630112b0af4e",
+  "name": "Handwerkskammer_Ausbildung",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Aktuell finden kein Berufsschulunterricht, keine ÜLU-Kurse und Prüfungen statt. Damit entfällt für die Betriebe die entsprechende Freistellungspflicht und die Auszubildenden haben grundsätzlich im Betrieb zu erscheinen. Wenn das Gesundheitsamt besondere Maßnahmen anordnet, ist das natürlich gesondert zu betrachten. Soweit es seitens des Ausbildungsbetriebes möglich ist, sollten Auszubildende, die sich in der Prüfungsvorbereitung befinden, vom Ausbildungsbetrieb die zeitlichen Möglichkeiten erhalten, sich in geeigneter Weise mit dem Lernstoff der Berufsschule auseinanderzusetzen."
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Der Kursbetrieb an den Bildungszentren und Akademien der Handwerkskammer für Unterfranken ist seit Montag, 16. März 2020 bis auf Weiteres ausgesetzt. Diese Einrichtungen an den Standorten Aschaffenburg, Schweinfurt und Würzburg sind vorrangig per E-Mail erreichbar. "
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "title": "Siehe auch:",
+          "replies": [
+            "Schulausfall",
+            "IHK Prüfung",
+            "HWK Erreichbarkeit"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "4d9322c7-285d-47da-ade2-759522e0b446",
+  "name": "Online_Shopping",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "de",
+          "condition": "",
+          "speech": "Über den Online Handel kann noch bestellt werden. Überdenken Sie aber bitte, ob der Kauf aktuell unbedingt notwendig ist, oder auf einen späteren Zeitpunkt verschoben werden kann. Auch Pakete müssen durch Menschen ausgeliefert werden. Die Empfehlung ist, die sozialen Kontakte so weit wie möglich zu minimieren."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,506 @@
+[
+  {
+    "id": "9834dce0-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Liquiditätsprobleme",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9834dce1-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Liquiditätsschwierigkeiten",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9834dce2-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "staatliche subventionen erhalten",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9834dce3-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "soforthilfe für kleine betriebe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9834dce4-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "hilfe für handwerksbetriebe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9834dce5-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "hilfe für handwerker",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9834dce6-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "liquidität",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9834dce7-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "firmen soforthilfe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9834dce8-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Unterstützung für Händler",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9834dce9-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Unterstützung für Selbstständige",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9834dcea-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Unterstützung für Unternehmen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9834dceb-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "soforthilfe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9834dcec-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "soforthile",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9834dced-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wie kann ich meinem Unternehmen finanziell helfen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9834dcee-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wo finde ich allgemeine Informationen zum Soforthilfeprogramm?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9834dcef-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Welche finanziellen Hilfen stellt das Wirtschaftsministerium zur Verfügung?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9834dcf0-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Welche Landesmittel stehen zur Rettung der Unternehmen zur Verfügung?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9834dcf1-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Die Liquidität meines Unternehmens ist in Gefahr - was kann ich tun?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9834dcf2-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wie funktioniert das Soforthilfeprogramm des bayerischen Wirtschaftsministeriums?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9834dcf3-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wer darf von der finanziellen Unterstützung des Freistaats profitieren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9834dcf4-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Haben Selbstständige und Freiberufler Anspruch auf finanzielle Unterstützung vom Land Bayern?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9834dcf5-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wo bekomme ich Hilfe für die Existenz meines Unternehmens?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9834dcf6-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Welche Unterstützungsangebote bietet der Freistaat Bayern?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9834dcf7-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wo bekomme ich finanzielle Unterstützung für mein Unternehmen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9834dcf8-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Was bietet das bayerische Soforthilfeprogramm für Unternehmen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9834dcf9-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Fördergeld für unternehmen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9834dcfa-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "förderung für unternehmen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9834dcfb-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Ich benötige finanzielle Hilfe für mein Unternehmen.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9834dcfc-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Förderung",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9834dcfd-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wo gibt es Soforthilfen für Unternehmen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9834dcfe-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wer unterstützt mich?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9834dcff-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wo erhalte ich Hilfe?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9834dd00-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "wo bekomme ich als Selbstständiger unterstützung?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9834dd01-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "ich habe Verdienstausfall durch die Allgemeinverfügung. Wer kommt für den Schaden auf?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9834dd02-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Praxis schließung förderung",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9834dd03-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Finanz. Förderung",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9834dd04-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Wohn kann ich mich mit Fragen zur wirtschaftlichen Unterstützung wenden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9834dd05-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Hallo, welche Förderungen gibt es für die Gastronomie?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9834dd06-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "wo bekomme ich Soforthlfe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9834dd07-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Hotline für Unternehmen in Corona Not",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9834dd08-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "Ich bin selbstständig und benötige finanzielle Unterst",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9834dd09-6ea2-11ea-a1b9-c3fbaf202271",
+    "data": [
+      {
+        "text": "corona soforthilfe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
