@@ -14,4 +14,4 @@ Allgemeine Fragen: AXXX
 Die Produktion des Bots wurde von der Firma BOTFriends, Würzburg übernommen.
 Die Finanzierung teilten sich Stadt Würzburg, IHL Würzburg-Schweinfurt,Region Mainfranken GmbH und die Handwerkskammer Unterfranken.
 
-Bei Fragen steht die Koordinierende Stelle, das Zentrum für digitale Innovation Mainfranken, Würzburg (zdi-mainfranken.de), gern zur Verfügung. 
+Bei Fragen steht die koordinierende Stelle, das Zentrum für digitale Innovation Mainfranken, Würzburg (zdi-mainfranken.de), gern zur Verfügung. 
